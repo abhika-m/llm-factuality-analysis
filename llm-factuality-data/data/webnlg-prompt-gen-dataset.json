@@ -1,0 +1,1509 @@
+[
+    {
+        "prompt": "Explain Aarhus Airport, including information about operating organisation, runway length",
+        "output": "\n\nAarhus Airport is an international airport located in Tirstrup, Denmark, approximately 45 km northeast of Aarhus. It is owned and operated by Aarhus Airport A/S, a private company. The airport has one runway, which is 2,400 metres long and is capable of handling aircraft up to the size of a Boeing 737.\n\nAarhus Airport serves both domestic and international destinations, with the majority of its passengers travelling to and from Copenhagen. In 2019, the airport handled over 1.2 million passengers, making it the second busiest airport in Denmark after Copenhagen Airport. The airport also serves as a hub for several airlines, including Ryanair, SAS, and Norwegian Air Shuttle.",
+        "model": "text-davinci-003",
+        "category": "Airport",
+        "id": "Id6",
+        "orig_entity_info": {
+            "operating_organisation": "Aktieselskab",
+            "runway_length": "2702.0"
+        }
+    },
+    {
+        "prompt": "Explain Adolfo Su\u00e1rez Madrid\u2013Barajas Airport, including information about location, runway length",
+        "output": "\n\nAdolfo Su\u00e1rez Madrid\u2013Barajas Airport is the main international airport serving Madrid, Spain. It is located in the northeast of the city, 12 km (7.5 mi) from the city center. The airport has four runways, the longest of which is 4,000 m (13,123 ft) long. It is the sixth busiest airport in Europe, handling over 50 million passengers in 2019. The airport has four terminals, with Terminal 4 being the largest and newest. It is the hub for Iberia, Air Europa, and Vueling, and serves as a focus city for Ryanair. The airport is connected to the city center by the Madrid Metro Line 8, which runs from the airport to Nuevos Ministerios station.",
+        "model": "text-davinci-003",
+        "category": "Airport",
+        "id": "Id26",
+        "orig_entity_info": {
+            "location": "Paracuellos_de_Jarama",
+            "runway_length": "3500.0"
+        }
+    },
+    {
+        "prompt": "Explain Al-Taqaddum Air Base, including information about runway length, city served",
+        "output": "\n\nAl-Taqaddum Air Base is a military airbase located in the Anbar Governorate of Iraq, approximately 70 kilometers west of Baghdad. It is the second largest airbase in Iraq and is operated by the Iraqi Air Force. The base is home to the Iraqi Air Force's 4th Air Wing and is used for both military and civilian operations.\n\nThe airbase has two runways, both of which are 3,000 meters long. The base is located near the city of Habbaniyah, and serves the cities of Baghdad, Fallujah, and Ramadi.\n\nThe primary purpose of Al-Taqaddum Air Base is to provide air support for the Iraqi military. The base is used for training, air defense, and air operations. It is also used for humanitarian and medical evacuation missions. Additionally, the base is used for air transport and cargo operations.",
+        "model": "text-davinci-003",
+        "category": "Airport",
+        "id": "Id56",
+        "orig_entity_info": {
+            "runway_length": "4019.0",
+            "city_served": "Fallujah"
+        }
+    },
+    {
+        "prompt": "Explain Alpena County Regional Airport, including information about location, elevation above the sea level",
+        "output": "\n\nAlpena County Regional Airport is located in Alpena, Michigan, and is the only airport in the county. It is situated at an elevation of 645 feet above sea level. The airport offers a variety of services, including commercial flights, charter flights, cargo flights, and general aviation services. It is also home to a full-service FBO (Fixed Base Operator) offering fuel, maintenance, and other services. The airport is served by two airlines, American Eagle and Delta Connection, and offers direct flights to Detroit, Chicago, and Minneapolis.",
+        "model": "text-davinci-003",
+        "category": "Airport",
+        "id": "Id96",
+        "orig_entity_info": {
+            "location": "Maple_Ridge_Township,_Alpena_County,_Michigan",
+            "elevation_above_the_sea_level": "210"
+        }
+    },
+    {
+        "prompt": "Explain Amsterdam Airport Schiphol, including information about city served, runway length",
+        "output": "\n\nAmsterdam Airport Schiphol is the main international airport of the Netherlands, located 9 kilometers southwest of Amsterdam. It is the third busiest airport in Europe in terms of passenger numbers, serving over 70 million passengers in 2019. The airport has a single runway, which is 4,000 meters long and is capable of handling the largest aircraft in the world. It is a hub for KLM, the national airline of the Netherlands, as well as for other major airlines such as Delta Air Lines, United Airlines, and British Airways. The airport serves as a gateway to the Netherlands and the rest of Europe, with direct flights to over 300 destinations in more than 100 countries.",
+        "model": "text-davinci-003",
+        "category": "Airport",
+        "id": "Id106",
+        "orig_entity_info": {
+            "city_served": "Amsterdam",
+            "runway_length": "3400.0"
+        }
+    },
+    {
+        "prompt": "Explain Antwerp International Airport, including information about owner, operating organisation",
+        "output": "\n\nAntwerp International Airport (ANR) is an international airport located in the municipality of Deurne, Belgium. It is owned by the Flemish Government and operated by the Antwerp International Airport Company (AIA).\n\nThe airport offers a range of services, including passenger and cargo flights, general aviation, and business aviation. It is served by a number of airlines, including Brussels Airlines, KLM, and Ryanair. The airport also offers a range of ground transportation services, including car rental, taxi, and bus services.\n\nThe airport has two runways, one of which is 2,400 meters long and the other is 1,800 meters long. It also has a terminal building with a range of facilities, including a restaurant, shops, and a VIP lounge. The airport also has a range of other amenities, including a car park, a post office, and a bank.",
+        "model": "text-davinci-003",
+        "category": "Airport",
+        "id": "Id136",
+        "orig_entity_info": {
+            "owner": "Flemish_Region",
+            "operating_organisation": "\"Flemish department of Mobility and Public Works\""
+        }
+    },
+    {
+        "prompt": "Explain Ardmore Airport (New Zealand), including information about 3rd runway length feet, elevation above the sea level",
+        "output": "\n\nArdmore Airport is a regional airport located in Papakura, New Zealand, approximately 25 km south of Auckland. It is the busiest general aviation airport in New Zealand, and is also used for military, commercial, and recreational aviation. The airport has two runways: the main runway is 2,400 metres (7,874 feet) long and the third runway is 1,200 metres (3,937 feet) long. The elevation of the airport is 40 metres (131 feet) above sea level.\n\nThe airport is served by a number of airlines, including Air New Zealand, Jetstar, and Sunair. It also serves as a base for a number of charter and private aircraft operators.",
+        "model": "text-davinci-003",
+        "category": "Airport",
+        "id": "Id146",
+        "orig_entity_info": {
+            "3rd_runway_length_feet": "1960",
+            "elevation_above_the_sea_level": "34.0"
+        }
+    },
+    {
+        "prompt": "Explain Ardmore Airport (New Zealand), including information about runway length, 3rd runway surface type",
+        "output": "\n\nArdmore Airport is a regional airport located in the Auckland region of New Zealand. It is the busiest regional airport in the country, handling over 1.2 million passengers annually. The airport has two runways, both of which are asphalt. The main runway is 2,400 metres long, while the secondary runway is 1,400 metres long. The airport also has a third runway, which is grass and is used for general aviation.\n\nThe airport offers a range of services, including domestic and international flights, charter flights, cargo services, and general aviation. It also has a range of facilities, including a terminal building, car parking, and a caf\u00e9. The airport is served by a number of airlines, including Air New Zealand, Jetstar, and Virgin Australia.",
+        "model": "text-davinci-003",
+        "category": "Airport",
+        "id": "Id156",
+        "orig_entity_info": {
+            "runway_length": "1411.0",
+            "3rd_runway_surface_type": "Poaceae"
+        }
+    },
+    {
+        "prompt": "Explain Aaron Bertram, including information about genre, associated band/associated musical artist",
+        "output": "\n\nAaron Bertram is an American singer-songwriter and multi-instrumentalist from Nashville, Tennessee. He is best known for his folk-rock and Americana-influenced sound, which has been described as \"a blend of classic country, folk, and rock.\" He has released two full-length albums, \"The Long Road Home\" (2015) and \"The Road Ahead\" (2017). He has also released several EPs and singles.\n\nBertram has toured extensively throughout the United States and Europe, performing at festivals such as SXSW, AmericanaFest, and the International Folk Alliance. He has shared the stage with artists such as John Prine, The Avett Brothers, and The Wood Brothers. He has also collaborated with artists such as John Oates, The Milk Carton Kids, and The Lone Bellow.",
+        "model": "text-davinci-003",
+        "category": "Artist",
+        "id": "Id3",
+        "orig_entity_info": {
+            "genre": "Ska_punk",
+            "associated_band/associated_musical_artist": "Kids_Imagine_Nation"
+        }
+    },
+    {
+        "prompt": "Explain Aaron Deer, including information about genre, instrument",
+        "output": "\n\nAaron Deer is an American singer-songwriter and multi-instrumentalist from Nashville, Tennessee. His music is a blend of folk, rock, and Americana, with a focus on storytelling and vivid imagery. He is known for his intricate guitar playing and soulful vocals. His instrumentation includes acoustic and electric guitars, banjo, mandolin, harmonica, and piano. His style is often described as heartfelt and honest, with a strong emphasis on melody and lyrical content. He has released two full-length albums, and has toured extensively throughout the United States.",
+        "model": "text-davinci-003",
+        "category": "Artist",
+        "id": "Id13",
+        "orig_entity_info": {
+            "genre": "Psychedelia",
+            "instrument": "Bass_guitar"
+        }
+    },
+    {
+        "prompt": "Explain Aaron Turner, including information about associated band/associated musical artist, genre",
+        "output": "\n\nAaron Turner is an American musician, artist, and producer. He is best known as the frontman of the post-metal band Isis, which he co-founded in 1997. He is also the founder of the record label Hydra Head Records, and has been involved in a number of other musical projects, including Old Man Gloom, Mamiffer, and Sumac.\n\nTurner's music is generally classified as post-metal, a genre that combines elements of heavy metal, post-rock, and experimental music. His work is characterized by its heavy, distorted guitar riffs, complex rhythms, and atmospheric soundscapes. Turner's lyrics often explore themes of personal struggle, loss, and existentialism.\n\nTurner has released numerous albums with Isis, Old Man Gloom, Mamiffer, and Sumac, as well as several solo albums. He has also collaborated with a number of other artists, including Jesu, Jodis, and House of Low Culture. In addition to his musical career, Turner is also an accomplished visual artist, having created artwork for many of his own albums, as well as for other bands.",
+        "model": "text-davinci-003",
+        "category": "Artist",
+        "id": "Id33",
+        "orig_entity_info": {
+            "associated_band/associated_musical_artist": "Twilight_(band)",
+            "genre": "Post-metal"
+        }
+    },
+    {
+        "prompt": "Explain Aaron Turner, including information about instrument, genre",
+        "output": "\n\nAaron Turner is an American musician, best known as the frontman of the post-metal band Isis. He is also the founder of the record label Hydra Head Records. Turner is a multi-instrumentalist, playing guitar, bass, drums, and keyboards. He is known for his experimental approach to music, often combining elements of post-rock, post-metal, ambient, and drone music. His guitar playing is characterized by heavy use of effects and dissonant chords, creating a unique sound. Turner has also collaborated with a variety of other artists, including Old Man Gloom, Mamiffer, and Sumac.",
+        "model": "text-davinci-003",
+        "category": "Artist",
+        "id": "Id43",
+        "orig_entity_info": {
+            "instrument": "Singing",
+            "genre": "Post-metal"
+        }
+    },
+    {
+        "prompt": "Explain Ace Wilder, including information about birth place, background",
+        "output": "\n\nAce Wilder is a Swedish singer and songwriter. She was born in Stockholm, Sweden in 1984. She began her career as a songwriter in 2011, writing songs for other artists such as Eric Saade, Danny Saucedo, and Darin. In 2014, she released her debut single \"Busy Doin' Nothin'\", which became a hit in Sweden and peaked at number two on the Swedish Singles Chart. She has since released two studio albums, \"Ace\" (2015) and \"Wild Child\" (2017). Wilder has also competed in the Swedish Melodifestivalen twice, in 2014 and 2017, and has represented Sweden in the Eurovision Song Contest in 2017.",
+        "model": "text-davinci-003",
+        "category": "Artist",
+        "id": "Id53",
+        "orig_entity_info": {
+            "birth_place": "Stockholm",
+            "background": "\"solo_singer\""
+        }
+    },
+    {
+        "prompt": "Explain Agust\u00edn Barboza, including information about birth place, death place",
+        "output": "\n\nAgust\u00edn Barboza (1919-1995) was an Argentine lawyer, politician, and human rights activist. He was born in Buenos Aires, Argentina, and died in the same city.\n\nBarboza was a prominent figure in the human rights movement in Argentina, and was a founding member of the Permanent Assembly for Human Rights. He was also a member of the Argentine Radical Civic Union, and served as a senator in the Argentine Senate from 1983 to 1989.\n\nBarboza was a vocal advocate for the rights of the poor and marginalized, and was a strong critic of the military dictatorship that ruled Argentina from 1976 to 1983. He was also a proponent of the rule of law and democracy, and was a key figure in the transition to democracy in Argentina.\n\nBarboza was also a prolific writer, and wrote several books on human rights and democracy. He was awarded the UNESCO Prize for Human Rights in 1989.",
+        "model": "text-davinci-003",
+        "category": "Artist",
+        "id": "Id63",
+        "orig_entity_info": {
+            "birth_place": "Paraguay",
+            "death_place": "Asunci\u00f3n"
+        }
+    },
+    {
+        "prompt": "Explain Al Anderson (NRBQ band), including information about instrument, genre",
+        "output": "\n\nAl Anderson is an American singer-songwriter and guitarist best known for his work with the rock and roll band NRBQ (New Rhythm and Blues Quartet). Anderson joined the band in 1971 and has been a member ever since. He is the lead guitarist and primary songwriter for the group.\n\nAnderson plays a variety of instruments, including guitar, mandolin, banjo, and keyboards. He is known for his unique style of playing, which combines elements of rock, blues, jazz, and country.\n\nNRBQ is known for their eclectic mix of genres, including rock, blues, jazz, country, and pop. Anderson's songwriting has been praised for its wit and humor, and his guitar playing has been praised for its energy and inventiveness.\n\nAnderson has released several solo albums, and has collaborated with a variety of artists, including Elvis Costello, Bonnie Raitt, and John Hiatt. He has also composed music for films, including the Academy Award-winning short film The Moon and the Son.\n\nAnderson has been inducted into the Rhode Island Music Hall of Fame and the Rock and Roll Hall of Fame. He continues to tour and record with NRBQ, and is considered one of the most influential guitarists of his generation.",
+        "model": "text-davinci-003",
+        "category": "Artist",
+        "id": "Id93",
+        "orig_entity_info": {
+            "instrument": "Singing",
+            "genre": "Rock_music"
+        }
+    },
+    {
+        "prompt": "Explain Aleksandra Kova\u010d, including information about genre, background",
+        "output": "\n\nAleksandra Kova\u010d is a Serbian singer-songwriter and producer. She is best known for her pop-folk and dance-pop music. She has released five studio albums and has had several hit singles in Serbia and the former Yugoslavia.\n\nKova\u010d was born in Belgrade, Serbia in 1975. She began her music career in the early 1990s, performing in various clubs and festivals in Serbia. She released her debut album, Aleksandra Kova\u010d, in 1998. The album was a success, spawning several hit singles, including \"Kad Se Voli\", \"Kad Se Ljubi\", and \"Kad Se Zaljubi\".\n\nKova\u010d's second album, Zemlja Moja, was released in 2000 and was even more successful than her debut. The album spawned several hit singles, including \"Kad Se Voli\", \"Kad Se Ljubi\", and \"Kad Se Zaljubi\".\n\nKova\u010d's third album, Zemlja Moja, was released in 2003 and was even more successful than her previous two albums. The album spawned several hit singles, including \"Kad Se Voli\", \"Kad Se Ljubi\", and \"Kad Se Zaljubi\".\n\nKova\u010d's fourth album, Zemlja Moja, was released in 2006 and was even more successful than her previous three albums. The album spawned several hit singles, including \"Kad Se Voli\", \"Kad Se Ljubi\", and \"Kad Se Zaljubi\".\n\nKova\u010d's fifth album, Zemlja Moja, was released in 2009 and was even more successful than her previous four albums. The album spawned several hit singles, including \"Kad Se Voli\", \"Kad Se Ljubi\", and \"Kad Se Zaljubi\".\n\nKova\u010d has also released several singles and collaborated with other artists, including Serbian rapper Mar\u010delo and Bosnian singer Dino Merlin. She has also appeared on several television shows and has been a judge on the Serbian version of The Voice.",
+        "model": "text-davinci-003",
+        "category": "Artist",
+        "id": "Id113",
+        "orig_entity_info": {
+            "genre": "Rhythm_and_blues",
+            "background": "\"solo_singer\""
+        }
+    },
+    {
+        "prompt": "Explain Alfred Garth Jones, including information about birth place, birth year",
+        "output": "\n\nAlfred Garth Jones (1872-1955) was a British-born Canadian architect and urban planner. He was born in London, England in 1872 and immigrated to Canada in 1891. He studied architecture at the University of Toronto and graduated in 1898. He then worked in the offices of several prominent Toronto architects, including Darling and Pearson and John M. Lyle.\n\nJones was a major figure in the development of the City Beautiful movement in Canada. He was responsible for the design of many of Toronto's most iconic buildings, including the Royal Ontario Museum, the Ontario Legislative Building, and the University of Toronto's Convocation Hall. He also designed many of the city's parks and public spaces, including Queen's Park, High Park, and the Toronto Islands.\n\nJones was a founding member of the Ontario Association of Architects and served as its president from 1912 to 1914. He was also a member of the Royal Canadian Academy of Arts and the Royal Institute of British Architects. He was awarded the Order of the British Empire in 1945 for his contributions to architecture and urban planning.",
+        "model": "text-davinci-003",
+        "category": "Artist",
+        "id": "Id123",
+        "orig_entity_info": {
+            "birth_place": "Manchester",
+            "birth_year": "1872"
+        }
+    },
+    {
+        "prompt": "Explain Alison O'Donnell, including information about genre, record label",
+        "output": "\n\nAlison O'Donnell is an Irish singer-songwriter and multi-instrumentalist. She is best known for her folk-rock style, which combines traditional Irish music with elements of rock, pop, and jazz. She has released two albums on the independent label, Big Hand Records: The Farthest Wave (2015) and The Road Less Travelled (2018). Her music has been described as \"a unique blend of traditional Irish music, folk, and rock, with a contemporary twist\". O'Donnell's lyrics often explore themes of love, loss, and identity, and her music has been praised for its \"emotional depth and complexity\".",
+        "model": "text-davinci-003",
+        "category": "Artist",
+        "id": "Id153",
+        "orig_entity_info": {
+            "genre": "Jazz",
+            "record_label": "Floating_World_Records"
+        }
+    },
+    {
+        "prompt": "Explain Anders Osborne, including information about record label, genre",
+        "output": "\n\nAnders Osborne is an American singer-songwriter and guitarist from New Orleans, Louisiana. He is known for his unique blend of blues, rock, and soul music. His music is often described as a mix of blues, rock, funk, and soul. He has released several albums on Alligator Records, a blues and roots label, as well as on other labels. His style is often described as a mix of blues, rock, funk, and soul, with a strong emphasis on improvisation. He has collaborated with many other artists, including Warren Haynes, Derek Trucks, and Susan Tedeschi. He has also been featured on albums by artists such as John Scofield, John Medeski, and Bill Frisell.",
+        "model": "text-davinci-003",
+        "category": "Artist",
+        "id": "Id183",
+        "orig_entity_info": {
+            "record_label": "Alligator_Records",
+            "genre": "Blues"
+        }
+    },
+    {
+        "prompt": "Explain Andra (singer), including information about genre, background",
+        "output": "\n\nAndra (born Alexandra Irina M\u0103ru\u021b\u0103) is a Romanian singer and songwriter. She is best known for her pop, dance, and R&B music.\n\nAndra was born in Romania and began her career in music at the age of 15. She released her first album, Andra, in 2004, which was a success in Romania. She has since released several more albums, including Love Me (2006), What's Up (2008), and Best of Andra (2009).\n\nAndra has had several hit singles, including \"Love Can Save It All\" (2006), \"Something New\" (2008), and \"Why\" (2009). She has also collaborated with other artists, such as Akcent, and has performed at various music festivals, including the MTV Europe Music Awards.\n\nAndra has won several awards, including the Romanian Music Awards for Best Female Artist in 2006 and 2007, and the MTV Europe Music Awards for Best Romanian Act in 2009. She has also been nominated for several other awards, including the MTV Europe Music Awards for Best Romanian Act in 2010 and 2011.",
+        "model": "text-davinci-003",
+        "category": "Artist",
+        "id": "Id193",
+        "orig_entity_info": {
+            "genre": "Rhythm_and_blues",
+            "background": "\"solo_singer\""
+        }
+    },
+    {
+        "prompt": "Explain Alan Shepard, including information about title, birth place",
+        "output": "\n\nAlan Shepard was an American astronaut and the first person in history to travel into space. He was born in Derry, New Hampshire on November 18, 1923. He was a decorated United States Navy officer and a test pilot.\n\nIn 1961, Shepard became the first American to travel into space, aboard the Freedom 7 spacecraft. He was also the fifth person in the world to travel into space. During his mission, he became the first person to manually control a spacecraft.\n\nIn 1971, Shepard became the fifth person to walk on the moon, during the Apollo 14 mission. He was also the first person to hit a golf ball on the moon.\n\nShepard was awarded the Congressional Space Medal of Honor in 1978. He died in 1998 at the age of 74.",
+        "model": "text-davinci-003",
+        "category": "Astronaut",
+        "id": "Id17",
+        "orig_entity_info": {
+            "title": "Chief_of_the_Astronaut_Office",
+            "birth_place": "New_Hampshire"
+        }
+    },
+    {
+        "prompt": "Explain Elliot See, including information about status, death place",
+        "output": "\n\nElliot See was an American astronaut and test pilot who was selected as a NASA astronaut in 1962. He was a member of the Gemini 9 mission, and was scheduled to be the command pilot of the Gemini 12 mission. However, he died in a plane crash in 1966, before the mission could take place.\n\nSee was born in Dallas, Texas, in 1927. He attended the United States Naval Academy and graduated in 1949. He then served in the United States Navy, where he became a test pilot. In 1962, he was selected as one of the original nine astronauts for the Gemini program.\n\nSee was the backup pilot for the Gemini 8 mission, and was scheduled to be the command pilot of the Gemini 12 mission. However, he died in a plane crash in 1966, while on a test flight for the Lockheed NF-104A aircraft. He was posthumously awarded the Congressional Space Medal of Honor in 1978.",
+        "model": "text-davinci-003",
+        "category": "Astronaut",
+        "id": "Id37",
+        "orig_entity_info": {
+            "status": "\"Deceased\"",
+            "death_place": "St._Louis"
+        }
+    },
+    {
+        "prompt": "Explain Aleksandr Chumakov, including information about club, birth place",
+        "output": "\n\nAleksandr Chumakov is a Russian professional football player who currently plays for FC Rostov in the Russian Premier League. He was born in the city of Rostov-on-Don, Russia, on April 15, 1993.\n\nChumakov began his career in the youth system of FC Rostov in 2010. He made his professional debut for the club in 2012 and has since become a regular starter for the team. He has made over 100 appearances for the club in all competitions, scoring 11 goals.\n\nChumakov has also represented the Russian national team at various youth levels, including the U-17, U-19, and U-21 teams. He made his senior debut for the national team in 2018 and has since made two appearances for the team.",
+        "model": "text-davinci-003",
+        "category": "Athlete",
+        "id": "Id111",
+        "orig_entity_info": {
+            "club": "Soviet_Union_national_football_team",
+            "birth_place": "Moscow"
+        }
+    },
+    {
+        "prompt": "Explain Alessio Romagnoli, including information about position, club",
+        "output": "\n\nAlessio Romagnoli is an Italian professional footballer who plays as a centre-back for Serie A club AC Milan and the Italy national team. He is known for his strong defensive skills and leadership qualities.\n\nRomagnoli began his career with Roma in 2012, making his debut in the Coppa Italia. He then moved to Sampdoria in 2014, where he made over 50 appearances in two seasons. In 2015, he joined AC Milan, where he has since become a key player and captain.\n\nRomagnoli has made over 200 appearances for Milan, winning the Supercoppa Italiana in 2016 and the Coppa Italia in 2020. He has also been named in the Serie A Team of the Year three times.\n\nAt international level, Romagnoli has represented Italy at various youth levels, and made his senior debut in 2016. He has since gone on to make over 20 appearances for the national team, and was part of the squad that won the 2018 FIFA World Cup.",
+        "model": "text-davinci-003",
+        "category": "Athlete",
+        "id": "Id141",
+        "orig_entity_info": {
+            "position": "Defender_(football)",
+            "club": "U.C._Sampdoria"
+        }
+    },
+    {
+        "prompt": "Explain Alex Tyus, including information about club, league",
+        "output": "\n\nAlex Tyus is an American professional basketball player who currently plays for Maccabi Tel Aviv of the Israeli Premier League. He was born in Chicago, Illinois and attended the University of Florida, where he was a two-time All-SEC selection.\n\nTyus was drafted by the Houston Rockets in the second round of the 2011 NBA Draft, but was later traded to the Milwaukee Bucks. He played for the Bucks for two seasons before signing with Maccabi Tel Aviv in 2013. With Maccabi, Tyus has won two Israeli Premier League championships and two Israeli Cups. He has also been named to the All-Israeli League First Team twice.\n\nAt the international level, Tyus has represented the United States in the FIBA World Cup and the Pan American Games. He has also represented Israel in the EuroBasket tournament.",
+        "model": "text-davinci-003",
+        "category": "Athlete",
+        "id": "Id151",
+        "orig_entity_info": {
+            "club": "Pallacanestro_Cant\u00f9",
+            "league": "Euroleague"
+        }
+    },
+    {
+        "prompt": "Explain 11 Diagonal Street, including information about completion date, floor count",
+        "output": "\n\n11 Diagonal Street is a high-rise office building located in the heart of Adelaide, South Australia. The building was completed in October 2020 and stands at a height of approximately 80 metres, making it one of the tallest buildings in the city. It has a total of 28 floors, with the top two floors being dedicated to a rooftop bar and restaurant. The building also features a modern fa\u00e7ade with a combination of glass and metal cladding, as well as a large atrium that allows natural light to flood the interior. Other features include a gym, a caf\u00e9, and a conference centre. The building is also home to a number of businesses, including a law firm, an accounting firm, and a technology company.",
+        "model": "text-davinci-003",
+        "category": "Building",
+        "id": "Id13",
+        "orig_entity_info": {
+            "completion_date": "1983",
+            "floor_count": "20"
+        }
+    },
+    {
+        "prompt": "Explain 3Arena, including information about location, architect",
+        "output": "\n\n3Arena is a 14,500-seat indoor arena located in the Dublin Docklands area of Dublin, Ireland. It was designed by the architectural firm Populous and opened in 2008. It is the largest indoor arena in Ireland and is used for concerts, sporting events, conferences, and other events. The arena is owned by Live Nation and is managed by Aiken Promotions. It has hosted some of the biggest names in music, including U2, Taylor Swift, and Ed Sheeran. It has also hosted major sporting events, such as the Irish Open Golf Championship and the Irish Open Snooker Championship. The arena has a capacity of 14,500 people and is one of the busiest venues in Europe.",
+        "model": "text-davinci-003",
+        "category": "Building",
+        "id": "Id63",
+        "orig_entity_info": {
+            "location": "\"East Link Bridge\"",
+            "architect": "Populous_(company)"
+        }
+    },
+    {
+        "prompt": "Explain AC Hotel Bella Sky Copenhagen, including information about location, tenant",
+        "output": "\n\nAC Hotel Bella Sky Copenhagen is a 4-star hotel located in the \u00d8restad district of Copenhagen, Denmark. The hotel is situated close to the Bella Center, Scandinavia's largest exhibition and conference center, and is just a few minutes away from the city center. The hotel features 814 rooms, including suites, and is the largest hotel in Scandinavia.\n\nThe hotel has a variety of tenants, including a restaurant, bar, and caf\u00e9. The restaurant, Sky Bar & Grill, serves a variety of international dishes and offers stunning views of the city. The bar, Sky Bar, is a great place to relax and enjoy a drink. The caf\u00e9, Sky Caf\u00e9, serves a variety of light snacks and drinks.\n\nThe hotel also offers a variety of amenities, including a fitness center, spa, and sauna. The fitness center is equipped with the latest exercise equipment and offers a variety of classes. The spa offers a variety of treatments, including massages, facials, and body wraps. The sauna is a great place to relax and unwind after a long day. The hotel also offers a variety of services, such as laundry, dry cleaning, and concierge services.",
+        "model": "text-davinci-003",
+        "category": "Building",
+        "id": "Id73",
+        "orig_entity_info": {
+            "location": "Denmark",
+            "tenant": "Marriott_International"
+        }
+    },
+    {
+        "prompt": "Explain Adare Manor, including information about architect, completion date",
+        "output": "\n\nAdare Manor is a 19th-century manor house located in the village of Adare, County Limerick, Ireland. It was designed by the architect James Pain and completed in 1832. The manor is a Gothic Revival style building, with a castellated fa\u00e7ade and a large central tower. It features a variety of architectural styles, including Tudor, Jacobean, and Elizabethan. Inside, the manor is decorated with a variety of antiques and artwork, including a collection of Irish paintings. The manor also features a championship golf course, a spa, and a variety of restaurants and bars. Adare Manor is a popular destination for weddings and other special events.",
+        "model": "text-davinci-003",
+        "category": "Building",
+        "id": "Id83",
+        "orig_entity_info": {
+            "architect": "Lewis_Nockalls_Cottingham",
+            "completion_date": "1862"
+        }
+    },
+    {
+        "prompt": "Explain Adisham Hall, including information about architectural style, location",
+        "output": "\n\nAdisham Hall is a Grade I listed country house located in Adisham, Kent, England. It was built in the early 16th century in the Tudor style, and is one of the best-preserved examples of a Tudor manor house in the country. The house is surrounded by a moat and is set in a large parkland.\n\nThe house was originally built by Sir Thomas Moyle, a courtier of Henry VIII, and was later owned by the Boleyn family. It was then passed down through the generations until it was purchased by Sir Henry Oxenden in 1619. The house has remained in the Oxenden family ever since, and is currently owned by the 8th Baronet, Sir John Oxenden.\n\nAdisham Hall is a two-storey building with a central courtyard. It is constructed of red brick and stone, and features a number of decorative features such as mullioned windows, gables, and a large gatehouse. The interior of the house is decorated with a number of period features, including a grand staircase, a great hall, and a number of fireplaces.\n\nAdisham Hall is open to the public for guided tours, and is a popular tourist attraction in the area.",
+        "model": "text-davinci-003",
+        "category": "Building",
+        "id": "Id93",
+        "orig_entity_info": {
+            "architectural_style": "\"Tudor and Jacabian\"",
+            "location": "Haputale"
+        }
+    },
+    {
+        "prompt": "Explain Akita Museum of Art, including information about country, location",
+        "output": "\n\nThe Akita Museum of Art is located in Akita City, Japan. It is a public museum dedicated to the preservation and display of modern and contemporary art. The museum was established in 1983 and is the first of its kind in the prefecture of Akita. It houses a permanent collection of over 4,000 works of art, including paintings, sculptures, prints, photographs, and installations. The museum also hosts temporary exhibitions, lectures, and workshops. The museum is located in the heart of Akita City, close to the Akita Castle and the Akita Prefectural Office.",
+        "model": "text-davinci-003",
+        "category": "Building",
+        "id": "Id103",
+        "orig_entity_info": {
+            "country": "Japan",
+            "location": "Akita,_Akita"
+        }
+    },
+    {
+        "prompt": "Explain Alan B. Miller Hall, including information about location, owner",
+        "output": "\n\nAlan B. Miller Hall is a building located on the campus of the College of William & Mary in Williamsburg, Virginia. It is owned by the College of William & Mary and is the home of the Mason School of Business. The building was named after Alan B. Miller, a former chairman and CEO of Universal Health Services, Inc. and a major donor to the college. The building was opened in 2009 and is a state-of-the-art facility that houses classrooms, faculty offices, and a variety of other amenities. It is designed to provide students with a modern learning environment and to promote collaboration and innovation. The building also features a large atrium, a caf\u00e9, and a variety of other amenities.",
+        "model": "text-davinci-003",
+        "category": "Building",
+        "id": "Id113",
+        "orig_entity_info": {
+            "location": "Virginia",
+            "owner": "College_of_William_&_Mary"
+        }
+    },
+    {
+        "prompt": "Explain Ampara Hospital, including information about country, location",
+        "output": "\n\nAmpara Hospital is a public hospital located in Ampara, Sri Lanka. It is the largest hospital in the Eastern Province of Sri Lanka and serves as the main referral hospital for the region. The hospital provides a wide range of medical services, including general medicine, surgery, obstetrics and gynecology, pediatrics, orthopedics, ophthalmology, ENT, and dental services. It also provides specialized services such as cardiology, neurology, nephrology, and oncology. The hospital has a 24-hour emergency department and a 24-hour laboratory. It also has a blood bank, an intensive care unit, and a radiology department. The hospital is staffed by a team of experienced doctors, nurses, and other healthcare professionals.",
+        "model": "text-davinci-003",
+        "category": "Building",
+        "id": "Id123",
+        "orig_entity_info": {
+            "country": "Sri_Lanka",
+            "location": "Ampara"
+        }
+    },
+    {
+        "prompt": "Explain Asilomar Conference Grounds, including information about location, year of construction",
+        "output": "\n\nThe Asilomar Conference Grounds is a conference center located in Pacific Grove, California. It was built in 1913 by the YWCA as a retreat for women. The grounds are now owned by the California State Parks system and are used for conferences, retreats, and other events. The grounds are situated on 107 acres of coastal land and feature a variety of buildings, including a historic lodge, a chapel, and a variety of meeting rooms. The grounds are also home to a variety of wildlife, including deer, foxes, and birds. The Asilomar Conference Grounds is best known for hosting the 1975 Asilomar Conference on Recombinant DNA, which was a landmark event in the history of biotechnology.",
+        "model": "text-davinci-003",
+        "category": "Building",
+        "id": "Id143",
+        "orig_entity_info": {
+            "location": "\"Asilomar Blvd., Pacific Grove, California\"",
+            "year_of_construction": "1913"
+        }
+    },
+    {
+        "prompt": "Explain (15788) 1993 SB, including information about discoverer, epoch",
+        "output": "\n\n15788 (1993 SB) is an asteroid discovered on September 28, 1993 by Spacewatch at Kitt Peak National Observatory in Arizona. It has an absolute magnitude of 15.7 and an orbital period of 4.45 years. Its orbital elements are as follows: semi-major axis of 2.7 AU, eccentricity of 0.25, inclination of 8.2\u00b0, and an epoch of 2450400.5.",
+        "model": "text-davinci-003",
+        "category": "CelestialBody",
+        "id": "Id2",
+        "orig_entity_info": {
+            "discoverer": "Iwan_P._Williams",
+            "epoch": "2006-03-06"
+        }
+    },
+    {
+        "prompt": "Explain (29075) 1950 DA, including information about epoch, orbital period",
+        "output": "\n\n29075 1950 DA is a near-Earth asteroid discovered on February 23, 1950. It has an epoch of 2458200.5, an orbital period of 2.12 years, and a perihelion of 0.637 AU. It is classified as an Apollo asteroid, meaning it has an orbit that crosses Earth's orbit. It is estimated to have a diameter of about 1.1 km.",
+        "model": "text-davinci-003",
+        "category": "CelestialBody",
+        "id": "Id12",
+        "orig_entity_info": {
+            "epoch": "2011-Aug-27",
+            "orbital_period": "69862200.0"
+        }
+    },
+    {
+        "prompt": "Explain (410777) 2009 FD, including information about orbital period, discoverer",
+        "output": "\n\n410777 2009 FD is a near-Earth asteroid discovered on March 16, 2009 by the Catalina Sky Survey. It has an estimated diameter of about 100 meters and an orbital period of 1.2 years. It is classified as a potentially hazardous asteroid (PHA) due to its close approach to Earth. It has an Earth Minimum Orbit Intersection Distance (MOID) of 0.0037 AU, which is less than 0.05 AU, the threshold for PHAs. The asteroid was discovered by the Catalina Sky Survey, a project of the University of Arizona's Lunar and Planetary Laboratory.",
+        "model": "text-davinci-003",
+        "category": "CelestialBody",
+        "id": "Id22",
+        "orig_entity_info": {
+            "orbital_period": "39447000.0",
+            "discoverer": "Spacewatch"
+        }
+    },
+    {
+        "prompt": "Explain (66391) 1999 KW4, including information about epoch, periapsis",
+        "output": "\n\n66391 1999 KW4 is an Apollo-type near-Earth asteroid discovered on May 17, 1999. It is approximately 1.3 kilometers in diameter and has an orbital period of 1.04 years.\n\nEpoch: The epoch of 66391 1999 KW4 is May 17, 1999.\n\nPeriapsis: The periapsis of 66391 1999 KW4 is 0.845 AU from the Sun.\n\nApoapsis: The apoapsis of 66391 1999 KW4 is 1.717 AU from the Sun.",
+        "model": "text-davinci-003",
+        "category": "CelestialBody",
+        "id": "Id32",
+        "orig_entity_info": {
+            "epoch": "2004-07-14",
+            "periapsis": "29919600000.0"
+        }
+    },
+    {
+        "prompt": "Explain 1001 Gaussia, including information about epoch, orbital period",
+        "output": "\n\n1001 Gaussia is a minor planet in the asteroid belt located between Mars and Jupiter. It was discovered on October 8, 1868 by Johann Palisa and is named after the German astronomer Johann Franz Encke.\n\n1001 Gaussia has an epoch of October 8, 1868, an orbital period of 4.14 years, and a size of approximately 8.5 kilometers in diameter. It is classified as a C-type asteroid, which means it is composed of carbonaceous material. It is also classified as a member of the Flora family, a group of asteroids that share similar orbital characteristics.",
+        "model": "text-davinci-003",
+        "category": "CelestialBody",
+        "id": "Id42",
+        "orig_entity_info": {
+            "epoch": "2015-06-27",
+            "orbital_period": "5.75 (days)"
+        }
+    },
+    {
+        "prompt": "Explain 101 Helena, including information about escape velocity, apoapsis",
+        "output": "\n\nHelena is a hypothetical space mission to send a spacecraft to the outer reaches of the Solar System. The mission would involve launching a spacecraft from Earth and sending it on a trajectory that would take it beyond the orbit of Neptune. The spacecraft would then use its onboard propulsion system to increase its speed and reach a point known as the escape velocity, which is the speed required to escape the gravitational pull of the Sun.\n\nOnce the spacecraft has reached the escape velocity, it will continue to accelerate until it reaches its apoapsis, which is the point in its orbit farthest from the Sun. At this point, the spacecraft will be traveling at its maximum speed and will be in a stable orbit around the Sun.\n\nThe spacecraft will then begin to slow down as it approaches its periapsis, which is the point in its orbit closest to the Sun. As it approaches the periapsis, the spacecraft will use its onboard propulsion system to slow down and eventually enter a stable orbit around the Sun.\n\nOnce the spacecraft has reached its periapsis, it will be in a stable orbit around the Sun and will be able to explore the outer reaches of the Solar System. The mission will also provide valuable data about the outer Solar System, including the composition of the planets and other objects in the region.",
+        "model": "text-davinci-003",
+        "category": "CelestialBody",
+        "id": "Id52",
+        "orig_entity_info": {
+            "escape_velocity": "0.0348 (kilometrePerSeconds)",
+            "apoapsis": "441092000.0 (kilometres)"
+        }
+    },
+    {
+        "prompt": "Explain 107 Camilla, including information about discoverer, epoch",
+        "output": "\n\n107 Camilla is a main-belt asteroid discovered on October 8, 1868 by J. C. Watson. It has an orbital period of 4.45 years and an orbital eccentricity of 0.17. Its semi-major axis is 2.8 AU and its inclination is 8.3\u00b0. It is classified as a C-type asteroid, meaning it is composed of carbonaceous material.",
+        "model": "text-davinci-003",
+        "category": "CelestialBody",
+        "id": "Id72",
+        "orig_entity_info": {
+            "discoverer": "A._Storrs",
+            "epoch": "2006-12-31"
+        }
+    },
+    {
+        "prompt": "Explain 1089 Tama, including information about epoch, orbital period",
+        "output": "\n\n1089 Tama is a main-belt asteroid discovered on October 8, 1925 by Y. Watanabe at Tokyo. It has an estimated diameter of about 8.3 kilometers and an orbital period of 4.45 years. 1089 Tama is located in the asteroid belt between Mars and Jupiter and has an epoch of October 28, 2020. It is classified as a C-type asteroid, which means it is composed of carbonaceous material. 1089 Tama is named after the Japanese astronomer Tama Watanabe.",
+        "model": "text-davinci-003",
+        "category": "CelestialBody",
+        "id": "Id82",
+        "orig_entity_info": {
+            "epoch": "2005-11-26",
+            "orbital_period": "1202.846 (days)"
+        }
+    },
+    {
+        "prompt": "Explain 1097 Vicia, including information about rotation period, apoapsis",
+        "output": "\n\n1097 Vicia is a main-belt asteroid discovered by Karl Wilhelm Reinmuth on April 8, 1925. It is a member of the Flora family of asteroids, which are thought to have originated from a single large parent body that was disrupted by a collision.\n\nRotation Period: 1097 Vicia has a rotation period of 8.8 hours.\n\nApoapsis: 1097 Vicia has an apoapsis of 2.7 AU.\n\nPeriapsis: 1097 Vicia has a periapsis of 2.2 AU.",
+        "model": "text-davinci-003",
+        "category": "CelestialBody",
+        "id": "Id92",
+        "orig_entity_info": {
+            "rotation_period": "95040.0",
+            "apoapsis": "511592000.0 (kilometres)"
+        }
+    },
+    {
+        "prompt": "Explain 109 Felicitas, including information about mass, apoapsis",
+        "output": "\n\n109 Felicitas is a main-belt asteroid located between the orbits of Mars and Jupiter. It was discovered by German astronomer Johann Palisa on April 8, 1873.\n\nMass: The mass of 109 Felicitas is estimated to be 1.9 x 10^18 kg.\n\nApoapsis: The apoapsis of 109 Felicitas is estimated to be 3.2 AU (astronomical units) from the Sun.\n\nPeriapsis: The periapsis of 109 Felicitas is estimated to be 2.3 AU from the Sun.",
+        "model": "text-davinci-003",
+        "category": "CelestialBody",
+        "id": "Id102",
+        "orig_entity_info": {
+            "mass": "7.5 (kilograms)",
+            "apoapsis": "523329000.0 (kilometres)"
+        }
+    },
+    {
+        "prompt": "Explain 1101 Clematis, including information about apoapsis, average speed",
+        "output": "\n\n1101 Clematis is a near-Earth asteroid discovered in 1930. It is a member of the Apollo group of asteroids, which are Earth-crossing asteroids with a semi-major axis greater than 1 AU. 1101 Clematis has an apoapsis of 1.7 AU, an average speed of 17.7 km/s, and an orbital period of 1.7 years. It is classified as a potentially hazardous asteroid due to its close proximity to Earth and its relatively large size.",
+        "model": "text-davinci-003",
+        "category": "CelestialBody",
+        "id": "Id112",
+        "orig_entity_info": {
+            "apoapsis": "520906000.0 (kilometres)",
+            "average_speed": "16.54 (kilometrePerSeconds)"
+        }
+    },
+    {
+        "prompt": "Explain 110 Lydia, including information about mass, apoapsis",
+        "output": "\n\n110 Lydia is a main-belt asteroid located between the orbits of Mars and Jupiter. It has a mass of approximately 1.2\u00d710^18 kg and an average diameter of about 60 km. Its orbital period is 4.3 years and its orbital eccentricity is 0.14. Its apoapsis (the point in its orbit farthest from the Sun) is 2.9 AU and its periapsis (the point in its orbit closest to the Sun) is 2.5 AU.",
+        "model": "text-davinci-003",
+        "category": "CelestialBody",
+        "id": "Id122",
+        "orig_entity_info": {
+            "mass": "6.7 (kilograms)",
+            "apoapsis": "440756000.0 (kilometres)"
+        }
+    },
+    {
+        "prompt": "Explain Abilene, Texas, including information about country, is part of",
+        "output": "\n\nAbilene, Texas is a city located in Taylor and Jones counties in the U.S. state of Texas. It is the county seat of Taylor County and is located off Interstate 20, between exits 279 on its western edge and 292 on the east. Abilene is located 150 miles west of the Dallas\u2013Fort Worth metroplex. The city is a part of the Texas Hill Country and is situated in the northern part of the state, approximately 180 miles west of the state capital of Austin. Abilene is the principal city of the Abilene Metropolitan Statistical Area, which had a 2017 estimated population of 170,219. It is the largest city in the Big Country region of West Texas. Abilene is home to three universities, including Abilene Christian University, Hardin\u2013Simmons University, and McMurry University.",
+        "model": "text-davinci-003",
+        "category": "City",
+        "id": "Id1",
+        "orig_entity_info": {
+            "country": "United_States",
+            "is_part_of": "Taylor_County,_Texas"
+        }
+    },
+    {
+        "prompt": "Explain Albuquerque, New Mexico, including information about leader title, country",
+        "output": ",\n\nAlbuquerque is the largest city in the state of New Mexico, United States. It is the county seat of Bernalillo County and is situated in the central part of the state, straddling the Rio Grande. The city's mayor is Tim Keller.\n\nAlbuquerque is located in the United States of America and has a population of 559,121 as of 2019. The city has a semi-arid climate, with hot summers and cool winters. The average annual temperature is around 60\u00b0F (15\u00b0C). Albuquerque receives an average of 8.9 inches (22.6 cm) of precipitation per year.",
+        "model": "text-davinci-003",
+        "category": "City",
+        "id": "Id31",
+        "orig_entity_info": {
+            "leader_title": "New_Mexico_Senate",
+            "country": "United_States"
+        }
+    },
+    {
+        "prompt": "Explain Anaheim, California, including information about utc offset, area total",
+        "output": "\n\nAnaheim, California is a city located in Orange County, California. It is the 10th most populous city in California, with a population of over 350,000 people. The city is located in the Pacific Time Zone, with an UTC offset of -8 hours.\n\nThe total area of Anaheim is 50.7 square miles, with a population density of 6,945 people per square mile.\n\nThe climate in Anaheim is classified as a Mediterranean climate, with hot, dry summers and mild, wet winters. The average temperature in the summer is around 75\u00b0F, while the average temperature in the winter is around 55\u00b0F. The city receives an average of 13 inches of rain per year.",
+        "model": "text-davinci-003",
+        "category": "City",
+        "id": "Id51",
+        "orig_entity_info": {
+            "utc_offset": "\"-7\"",
+            "area_total": "131.6 (square kilometres)"
+        }
+    },
+    {
+        "prompt": "Explain Anaheim, California, including information about is part of, leader title",
+        "output": "\n\nAnaheim is a city located in Orange County, California. It is part of the Los Angeles metropolitan area and is the 10th most populous city in California. The current mayor of Anaheim is Harry Sidhu.\n\nAs of 2019, the population of Anaheim was 352,005. The city was founded in 1857 by fifty German-Americans who were looking for a new home. The city was originally named \"Annaheim,\" after the nearby Santa Ana River, but the name was changed to Anaheim in 1876.\n\nAnaheim is home to the Disneyland Resort, which opened in 1955 and is the city's largest employer. The resort includes two theme parks, three hotels, and the Downtown Disney shopping district. Anaheim is also home to the Anaheim Ducks hockey team, the Los Angeles Angels baseball team, and the Honda Center, a multi-purpose arena.\n\nThe city is known for its vibrant culture and diverse population. Anaheim is home to a variety of ethnicities, including Mexican, Vietnamese, Korean, and Filipino. The city is also home to a large number of immigrants, with over 40% of the population being foreign-born.",
+        "model": "text-davinci-003",
+        "category": "City",
+        "id": "Id61",
+        "orig_entity_info": {
+            "is_part_of": "Orange_County,_California",
+            "leader_title": "California_State_Senate"
+        }
+    },
+    {
+        "prompt": "Explain Angola, Indiana, including information about area total, population density",
+        "output": "\n\nAngola, Indiana is a city located in Steuben County, Indiana. It is the county seat of Steuben County. The city has a total area of 5.2 square miles, all of which is land. As of the 2010 census, the population of Angola was 8,612, giving it a population density of 1,660 people per square mile.\n\nThe city is located in the northeastern corner of Indiana, near the Michigan border. It is approximately 60 miles from Fort Wayne, Indiana and 90 miles from Toledo, Ohio. The city is home to Trine University, a private university founded in 1884.\n\nThe economy of Angola is largely based on manufacturing, with many of the city's businesses being involved in the production of automotive parts. The city is also home to a number of retail stores, restaurants, and other businesses.\n\nThe city is served by the Angola Public Library, which is part of the Steuben County Public Library System. The city also has a number of parks and recreational facilities, including a golf course, a swimming pool, and a skate park.",
+        "model": "text-davinci-003",
+        "category": "City",
+        "id": "Id71",
+        "orig_entity_info": {
+            "area_total": "16.55 (square kilometres)",
+            "population_density": "524.5 (inhabitants per square kilometre)"
+        }
+    },
+    {
+        "prompt": "Explain Atlantic City, New Jersey, including information about country, is part of",
+        "output": "\n\nAtlantic City is a city located in Atlantic County, New Jersey, United States. It is situated on Absecon Island along the Atlantic Ocean, and is part of the Atlantic City metropolitan area. Atlantic City is known for its boardwalk, casinos, and beaches. It is a popular destination for tourists, and is home to many resorts, hotels, and casinos. The city is also known for its nightlife, shopping, and entertainment. Atlantic City is located in the Mid-Atlantic region of the United States, and is part of the larger New York City metropolitan area. It is approximately 60 miles (97 km) south of Manhattan and 40 miles (64 km) east of Philadelphia.",
+        "model": "text-davinci-003",
+        "category": "City",
+        "id": "Id101",
+        "orig_entity_info": {
+            "country": "United_States",
+            "is_part_of": "New_Jersey"
+        }
+    },
+    {
+        "prompt": "Explain Auburn, Washington, including information about is part of, country",
+        "output": "\n\nAuburn is a city located in King County, Washington, United States. It is part of the Seattle metropolitan area. As of the 2010 census, the population was 70,180, making it the 9th largest city in the state of Washington. Auburn is bordered by the cities of Federal Way, Pacific, and Algona to the west, Sumner to the south, Kent to the east, and unincorporated King County to the north. The Muckleshoot Indian Reservation is located in or near the southern city limits. Auburn is located in the United States and is part of the state of Washington.",
+        "model": "text-davinci-003",
+        "category": "City",
+        "id": "Id121",
+        "orig_entity_info": {
+            "is_part_of": "Washington_(state)",
+            "country": "United_States"
+        }
+    },
+    {
+        "prompt": "Explain Arion (comicsCharacter), including information about alternative name, creator",
+        "output": "\n\nArion is a fictional character from DC Comics, created by writer Paul Kupperberg and artist Jan Duursema. He is an immortal Atlantean sorcerer and the former ruler of the lost continent of Atlantis. He is also known as the Lord of Atlantis.\n\nArion was born in the ancient city of Atlantis, and was the son of the city's ruler, King Orin. He was born with the power of sorcery, and was trained in the magical arts by the wizard Gamemnae. He eventually became the ruler of Atlantis, and used his powers to protect the city from outside threats.\n\nArion's powers include the ability to manipulate the elements, create illusions, and cast powerful spells. He is also able to teleport himself and others, and can even travel through time. He is immortal, and is able to regenerate from any injury.\n\nArion has been a member of the Justice League, and has also been a member of the Teen Titans. He has also been featured in various other DC Comics titles, including Aquaman, Wonder Woman, and The New Titans.",
+        "model": "text-davinci-003",
+        "category": "ComicsCharacter",
+        "id": "Id6",
+        "orig_entity_info": {
+            "alternative_name": "\"Ahri'ahn\"",
+            "creator": "Paul_Kupperberg"
+        }
+    },
+    {
+        "prompt": "Explain Bananaman, including information about starring, broadcasted by",
+        "output": "\n\nBananaman is a British children's television series that aired from 1983 to 1986. It was produced by London-based company, Terry Ward Animation. The series follows the adventures of Bananaman, a superhero who is powered by the energy of bananas. He is voiced by the British actor, Tim Brooke-Taylor.\n\nThe series follows the adventures of Eric Wimp, a schoolboy who transforms into the superhero Bananaman when he eats a banana. Bananaman is a strong and powerful superhero who is able to fly and has super strength. He is aided by his sidekick, Crow, and his nemesis, the villainous Doctor Gloom.\n\nThe series was broadcasted by ITV in the United Kingdom and by the Canadian Broadcasting Corporation in Canada. It was also broadcasted in other countries, including Australia, New Zealand, and the United States.\n\nThe series was well-received by viewers and critics alike, and it has since become a cult classic. It has been released on DVD and is available to stream on various platforms.",
+        "model": "text-davinci-003",
+        "category": "ComicsCharacter",
+        "id": "Id36",
+        "orig_entity_info": {
+            "starring": "Tim_Brooke-Taylor",
+            "broadcasted_by": "BBC"
+        }
+    },
+    {
+        "prompt": "Explain Bozo the Iron Man, including information about creator, full name",
+        "output": "\n\nBozo the Iron Man is a fictional character created by American cartoonist Bud Fisher in the early 20th century. His full name is Bozo the Iron Man, and he is a robot created by Professor E.C. Baffin. Bozo was originally created to be a helper for the professor, but he eventually became a superhero. Bozo is known for his strength and bravery, and he is often seen fighting crime and protecting the innocent. Bozo is also known for his catchphrase, \"Bozo the Iron Man is here to save the day!\" Bozo has been featured in comic books, cartoons, and video games, and he is a popular character in pop culture.",
+        "model": "text-davinci-003",
+        "category": "ComicsCharacter",
+        "id": "Id66",
+        "orig_entity_info": {
+            "creator": "George_Brenner",
+            "full_name": "\"Hugh Hazzard\""
+        }
+    },
+    {
+        "prompt": "Explain The Arrow (comicsCharacter), including information about alternative name, creator",
+        "output": "\n\nThe Arrow is a fictional superhero appearing in comic books published by DC Comics. He is the alter ego of Oliver Queen, a billionaire playboy and philanthropist who is also known as the Green Arrow. The character was created by Mort Weisinger and George Papp and first appeared in More Fun Comics #73 in November 1941.\n\nThe Arrow is a master archer and martial artist who uses his skills to fight crime and injustice. He is an expert marksman and is able to use a variety of trick arrows with various special functions, such as explosive-tipped arrows, grappling hook arrows, and even boxing glove arrows. He also has a keen eye for detective work and is an expert strategist. He is also a skilled acrobat and athlete.\n\nThe Arrow is a member of the Justice League and is one of the most iconic superheroes in the DC Universe. He has been featured in various media, including television, film, and video games. He is also the star of the popular CW television series Arrow, which is based on the character.",
+        "model": "text-davinci-003",
+        "category": "ComicsCharacter",
+        "id": "Id76",
+        "orig_entity_info": {
+            "alternative_name": "\"Ralph Payne\"",
+            "creator": "Paul_Gustavson"
+        }
+    },
+    {
+        "prompt": "Explain AmeriGas, including information about city, operating income",
+        "output": "\n\nAmeriGas is the largest retail propane distributor in the United States, with over 2 million customers in all 50 states. The company is headquartered in King of Prussia, Pennsylvania, and is a publicly traded company on the New York Stock Exchange (NYSE: APU).\n\nAmeriGas operates over 1,800 retail locations and serves over 2 million customers. The company has an annual operating income of over $1.5 billion.\n\nAmeriGas provides propane to residential, commercial, industrial, and agricultural customers. The company also offers a variety of related products and services, such as propane tanks, cylinders, and accessories; propane delivery and installation; and propane-related services, such as tank monitoring, maintenance, and repair.",
+        "model": "text-davinci-003",
+        "category": "Company",
+        "id": "Id9",
+        "orig_entity_info": {
+            "city": "King_of_Prussia,_Pennsylvania",
+            "operating_income": "380700000"
+        }
+    },
+    {
+        "prompt": "Explain Chinabank, including information about foundation place, location",
+        "output": "\n\nChinabank is a Chinese-owned bank based in Hong Kong. It was founded in 2001 and is one of the largest banks in the city. It has over 200 branches and offices in Hong Kong, Macau, and mainland China. Chinabank offers a wide range of services, including personal banking, corporate banking, investment banking, wealth management, and insurance. It also provides online banking, mobile banking, and ATM services. Chinabank is committed to providing customers with convenient, secure, and innovative banking services.",
+        "model": "text-davinci-003",
+        "category": "Company",
+        "id": "Id19",
+        "orig_entity_info": {
+            "foundation_place": "Insular_Government_of_the_Philippine_Islands",
+            "location": "Philippines"
+        }
+    },
+    {
+        "prompt": "Explain Chinabank, including information about number of locations, foundation place",
+        "output": "\n\nChinabank is a Philippine-based commercial bank that was founded in 1916. It is one of the oldest banks in the country and is the second-largest bank in terms of assets. It has over 800 branches and more than 2,000 ATMs nationwide. It also has international branches in the United States, Hong Kong, and Singapore. Chinabank offers a wide range of services, including deposits, loans, investments, remittances, and foreign exchange. It also provides online banking, mobile banking, and other digital banking services. Chinabank is a member of the Bankers Association of the Philippines and is regulated by the Bangko Sentral ng Pilipinas.",
+        "model": "text-davinci-003",
+        "category": "Company",
+        "id": "Id29",
+        "orig_entity_info": {
+            "number_of_locations": "295",
+            "foundation_place": "Manila"
+        }
+    },
+    {
+        "prompt": "Explain Hypermarcas, including information about key person, number of employees",
+        "output": "\n\nHypermarcas is a Brazilian pharmaceutical and consumer goods company founded in 1999. It is one of the largest companies in Brazil and is listed on the Bovespa stock exchange. The company is headquartered in S\u00e3o Paulo and has over 8,000 employees.\n\nHypermarcas is led by CEO Claudio Bergamo, who has been with the company since its founding. Under his leadership, Hypermarcas has grown to become one of the largest companies in Brazil.\n\nHypermarcas produces a wide range of products, including pharmaceuticals, personal care products, food and beverages, and household products. The company has a portfolio of over 1,000 brands, including popular brands such as Bozzano, Boa Sorte, and Neutrox. Hypermarcas also produces generic drugs, which are sold under the brand name Gen\u00e9ricos Hypermarcas.",
+        "model": "text-davinci-003",
+        "category": "Company",
+        "id": "Id49",
+        "orig_entity_info": {
+            "key_person": "CEO",
+            "number_of_employees": "10252"
+        }
+    },
+    {
+        "prompt": "Explain Trane, including information about location, type",
+        "output": "\n\nTrane is a global provider of heating, ventilation, and air conditioning (HVAC) systems and services. It is a subsidiary of Ingersoll Rand and is headquartered in Swords, Ireland. Trane designs, manufactures, and services a wide range of HVAC systems, parts, and services for residential, commercial, and industrial applications. Its products include air conditioners, furnaces, heat pumps, air handlers, thermostats, and air purifiers. Trane also provides energy-efficient solutions, such as geothermal systems, solar systems, and energy recovery systems. The company also offers a range of services, including installation, maintenance, and repair.",
+        "model": "text-davinci-003",
+        "category": "Company",
+        "id": "Id69",
+        "orig_entity_info": {
+            "location": "Swords,_Dublin",
+            "type": "Subsidiary"
+        }
+    },
+    {
+        "prompt": "Explain Ajoblanco, including information about country, ingredient",
+        "output": "\n\nAjoblanco is a traditional cold soup from Spain. It is made with a base of garlic, almonds, and bread, and is usually served with grapes, tomatoes, and olive oil. The soup is popular in the Andalusia region of Spain, and is often served as a starter or side dish. To prepare Ajoblanco, the garlic and almonds are blended together with water to form a paste. The paste is then mixed with bread crumbs and olive oil, and the mixture is left to sit for a few hours. The soup is then served cold, topped with the grapes, tomatoes, and olive oil.",
+        "model": "text-davinci-003",
+        "category": "Food",
+        "id": "Id3",
+        "orig_entity_info": {
+            "country": "Spain",
+            "ingredient": "Water"
+        }
+    },
+    {
+        "prompt": "Explain Ajoblanco, including information about region, ingredient",
+        "output": "\n\nAjoblanco is a traditional cold soup from the Andalusian region of Spain. It is made with garlic, almonds, olive oil, and stale bread, and is usually served with grapes or melon. The ingredients are blended together until a thick, creamy consistency is achieved. The soup is typically served chilled, and is often garnished with a drizzle of olive oil and a sprinkle of paprika. It is a popular summer dish in Spain, and is often served as a starter or light meal.",
+        "model": "text-davinci-003",
+        "category": "Food",
+        "id": "Id13",
+        "orig_entity_info": {
+            "region": "Andalusia",
+            "ingredient": "Olive_oil"
+        }
+    },
+    {
+        "prompt": "Explain Arem-arem, including information about ingredient, region",
+        "output": "\n\nArem-arem is a traditional Indonesian snack made from steamed rice flour, coconut milk, and sugar. It is usually served with a savory topping such as fried shallots, grated coconut, and chili. It is popular in Java, Sumatra, and Bali.\n\nTo prepare arem-arem, the rice flour is mixed with coconut milk and sugar until it forms a thick paste. The paste is then spooned into small molds and steamed until cooked. Once cooked, the arem-arem is removed from the molds and served with the savory topping. It can also be served with a sweet topping such as grated coconut and palm sugar.",
+        "model": "text-davinci-003",
+        "category": "Food",
+        "id": "Id33",
+        "orig_entity_info": {
+            "ingredient": "Banana_leaf",
+            "region": "\"Nationwide in Indonesia, but more specific to Java\""
+        }
+    },
+    {
+        "prompt": "Explain Arrabbiata sauce, including information about ingredient, region",
+        "output": "\n\nArrabbiata sauce is a spicy Italian tomato sauce made with garlic, tomatoes, and red chili peppers. It is typically served over pasta and is popular in the regions of Lazio and Campania. The name Arrabbiata translates to \u201cangry\u201d in Italian, referring to the spiciness of the sauce. The flavor of Arrabbiata sauce is spicy and savory, with a hint of sweetness from the tomatoes.",
+        "model": "text-davinci-003",
+        "category": "Food",
+        "id": "Id43",
+        "orig_entity_info": {
+            "ingredient": "Garlic",
+            "region": "Rome"
+        }
+    },
+    {
+        "prompt": "Explain Asam pedas, including information about country, region",
+        "output": "\n\nAsam pedas is a spicy and sour dish from Indonesia, Malaysia, and Singapore. It is a popular dish in the Malay Archipelago and is made with a variety of ingredients, including chili peppers, tamarind, lemongrass, galangal, garlic, shallots, ginger, turmeric, and shrimp paste. The dish is usually served with white rice and can be made with fish, chicken, beef, or vegetables. The sourness of the dish comes from the tamarind, while the spiciness comes from the chili peppers. Asam pedas is a flavorful and unique dish that is sure to tantalize the taste buds.",
+        "model": "text-davinci-003",
+        "category": "Food",
+        "id": "Id63",
+        "orig_entity_info": {
+            "country": "Malaysia",
+            "region": "\"Sumatra and Malay Peninsula\""
+        }
+    },
+    {
+        "prompt": "Explain Bacon Explosion, including information about country, ingredient",
+        "output": "\n\nThe Bacon Explosion is a dish created by two Kansas City-based BBQ enthusiasts, Jason Day and Aaron Chronister, in 2008. It is a combination of two classic BBQ dishes: bacon-wrapped sausage and BBQ pulled pork. The dish consists of two pounds of bacon woven together to form a \"bacon weave\" which is then filled with two pounds of sausage, two cups of BBQ sauce, and two cups of BBQ pulled pork. The entire dish is then wrapped in aluminum foil and smoked for two hours. The Bacon Explosion has become a popular dish in the United States and has been featured in several publications, including the New York Times.",
+        "model": "text-davinci-003",
+        "category": "Food",
+        "id": "Id93",
+        "orig_entity_info": {
+            "country": "United_States",
+            "ingredient": "Bacon"
+        }
+    },
+    {
+        "prompt": "Explain Bacon Explosion, including information about ingredient, main ingredient",
+        "output": "\n\nThe Bacon Explosion is a dish created by BBQAddicts.com in 2008. It consists of two pounds of bacon woven together with Italian sausage, barbecue sauce, and spices. The main ingredient is bacon, which is woven together with Italian sausage, barbecue sauce, and spices. The dish is then wrapped in bacon and smoked for two hours. The cooking method is smoking, which gives the dish a smoky flavor. The dish is served with additional barbecue sauce and is often served as an appetizer or main course.",
+        "model": "text-davinci-003",
+        "category": "Food",
+        "id": "Id103",
+        "orig_entity_info": {
+            "ingredient": "Bacon",
+            "main_ingredient": "Sausage"
+        }
+    },
+    {
+        "prompt": "Explain Bacon sandwich, including information about country, ingredient",
+        "output": "\n\nA bacon sandwich is a popular sandwich in many countries, including the United Kingdom, United States, Canada, and Australia. It is typically made with bacon, bread, and butter, and may also include condiments such as ketchup, mustard, mayonnaise, or relish. Preparation involves cooking the bacon in a skillet or oven, then assembling the sandwich with the cooked bacon, bread, and condiments of choice. The sandwich can be served hot or cold, and is often served as a breakfast or brunch item.",
+        "model": "text-davinci-003",
+        "category": "Food",
+        "id": "Id113",
+        "orig_entity_info": {
+            "country": "United_Kingdom",
+            "ingredient": "Brown_sauce"
+        }
+    },
+    {
+        "prompt": "Explain Baked Alaska, including information about country, ingredient",
+        "output": "\n\nBaked Alaska is a dessert that originated in the United States. It is made of a layer of sponge cake topped with ice cream and then covered with meringue. The entire dessert is then baked in an oven until the meringue is golden brown. The dessert is believed to have been created in the late 19th century in honor of the United States' purchase of Alaska from Russia. The dessert is often served with a sauce such as raspberry or chocolate.",
+        "model": "text-davinci-003",
+        "category": "Food",
+        "id": "Id123",
+        "orig_entity_info": {
+            "country": "\"France, United States or China\"",
+            "ingredient": "Ice_cream"
+        }
+    },
+    {
+        "prompt": "Explain Bakewell pudding, including information about course, main ingredient",
+        "output": "\n\nBakewell pudding is a traditional English dessert that is usually served as a pudding or tart. It is a sweet pastry dish that is made with a shortcrust pastry base, a layer of jam, and an almond-flavored sponge topping. The main ingredient is usually raspberry jam, but other jams such as blackberry or strawberry can also be used. The pudding is usually served with custard or cream.\n\nTo prepare Bakewell pudding, the pastry base is first blind-baked in the oven. Then, a layer of jam is spread over the pastry base. The almond-flavored sponge topping is then spread over the jam layer. The pudding is then baked in the oven until the sponge is golden brown. Once cooled, the pudding can be served with custard or cream.",
+        "model": "text-davinci-003",
+        "category": "Food",
+        "id": "Id133",
+        "orig_entity_info": {
+            "course": "\"Dessert\"",
+            "main_ingredient": "\"Ground almond, jam, butter, eggs\""
+        }
+    },
+    {
+        "prompt": "Explain Bakso, including information about country, ingredient",
+        "output": "\n\nBakso is a traditional Indonesian meatball dish. It is made from a mixture of beef, tapioca flour, and spices, and is usually served in a savory broth. The beef is usually ground and mixed with the tapioca flour, garlic, shallots, salt, pepper, and other spices. The mixture is then formed into small balls and boiled in a flavorful broth. Bakso is often served with noodles, rice, or vegetables, and is a popular street food in Indonesia. It can also be served with a variety of condiments, such as chili sauce, sweet soy sauce, and sambal.",
+        "model": "text-davinci-003",
+        "category": "Food",
+        "id": "Id143",
+        "orig_entity_info": {
+            "country": "Indonesia",
+            "ingredient": "Celery"
+        }
+    },
+    {
+        "prompt": "Explain Bandeja paisa, including information about country, region",
+        "output": "\n\nBandeja paisa is a traditional Colombian dish from the Andean region of the country. It is a hearty meal that consists of a variety of ingredients, including white rice, red beans, ground beef, chorizo, plantain, arepa, hogao (a tomato-based sauce), avocado, a fried egg, and a slice of chicharr\u00f3n (fried pork belly). The dish is usually served with a side of lime and aji (a spicy sauce). Bandeja paisa is a popular dish in Colombia and is often served at family gatherings and special occasions.",
+        "model": "text-davinci-003",
+        "category": "Food",
+        "id": "Id153",
+        "orig_entity_info": {
+            "country": "Colombian_cuisine",
+            "region": "Paisa_Region"
+        }
+    },
+    {
+        "prompt": "Explain Bandeja paisa, including information about ingredient, country",
+        "output": "\n\nBandeja paisa is a traditional Colombian dish that originated in the Antioquia region of Colombia. It is a hearty meal that consists of a variety of ingredients, including white rice, red beans, ground beef, chorizo, plantain, arepa, avocado, chicharr\u00f3n, and a fried egg. The dish is usually served with a side of hogao, a tomato-based sauce. The dish is typically prepared by cooking the ground beef and chorizo together, then adding the red beans and rice. The plantain, arepa, and chicharr\u00f3n are then fried and served alongside the other ingredients. The dish is usually garnished with a fried egg and avocado slices. Bandeja paisa is a popular dish in Colombia and is often served at family gatherings and special occasions.",
+        "model": "text-davinci-003",
+        "category": "Food",
+        "id": "Id163",
+        "orig_entity_info": {
+            "ingredient": "Lemon",
+            "country": "Colombian_cuisine"
+        }
+    },
+    {
+        "prompt": "Explain Barny Cakes, including information about year, carbohydrate",
+        "output": "\n\nBarny Cakes are a type of cake mix that was first introduced in the United States in the early 2000s. The mix is made with a combination of wheat flour, sugar, baking powder, and other ingredients. The mix is designed to be used with a variety of flavors, including chocolate, vanilla, and strawberry. The mix is also available in a gluten-free version.\n\nBarny Cakes are high in carbohydrates, with each serving containing approximately 40 grams of carbohydrates. The mix also contains a small amount of fat and protein. The flavor of the mix is slightly sweet, with a hint of vanilla. The mix can be used to make a variety of cakes, including cupcakes, layer cakes, and sheet cakes.",
+        "model": "text-davinci-003",
+        "category": "Food",
+        "id": "Id173",
+        "orig_entity_info": {
+            "year": "1999",
+            "carbohydrate": "18.0 g"
+        }
+    },
+    {
+        "prompt": "Explain Batchoy, including information about country, ingredient",
+        "output": "\n\nBatchoy is a Filipino noodle soup dish that originated in the city of La Paz, Iloilo in the Visayas region of the Philippines. It is made with pork organs, crushed pork cracklings, chicken stock, beef loin, and round noodles. The noodles are usually made from wheat flour, eggs, and water. The soup is flavored with garlic, onions, and a special blend of spices. It is usually served with a side of calamansi (a type of citrus fruit) and a hard-boiled egg. Batchoy is a popular street food in the Philippines and is often served with a side of toasted garlic and chicharon (pork cracklings).",
+        "model": "text-davinci-003",
+        "category": "Food",
+        "id": "Id183",
+        "orig_entity_info": {
+            "country": "Philippines",
+            "ingredient": "Vegetable"
+        }
+    },
+    {
+        "prompt": "Explain Beef kway teow, including information about country, ingredient",
+        "output": "\n\nBeef kway teow is a popular dish originating from Malaysia. It is a stir-fried noodle dish made with flat rice noodles, beef, bean sprouts, and Chinese chives. The noodles are usually cooked in a wok with a combination of soy sauce, oyster sauce, and dark soy sauce. The beef is usually marinated in a mixture of soy sauce, oyster sauce, and sesame oil before being added to the wok. The dish is usually served with a side of chili sauce or sambal.",
+        "model": "text-davinci-003",
+        "category": "Food",
+        "id": "Id193",
+        "orig_entity_info": {
+            "country": "Indonesia",
+            "ingredient": "Palm_sugar"
+        }
+    },
+    {
+        "prompt": "Explain Bhajji, including information about alternative name, ingredient",
+        "output": "\n\nBhajji is a type of Indian fritter made from a variety of ingredients, including vegetables, lentils, and spices. It is also known as pakora, bhajiya, or bhajia. The most common ingredients used to make bhajji are onions, potatoes, spinach, cauliflower, and eggplant. The vegetables are cut into small pieces and mixed with a batter made from chickpea flour, salt, and spices. The mixture is then deep-fried in oil until golden brown. Bhajji is usually served as a snack or appetizer and is often accompanied by chutney or other dipping sauces.",
+        "model": "text-davinci-003",
+        "category": "Food",
+        "id": "Id203",
+        "orig_entity_info": {
+            "alternative_name": "\"Bhaji, bajji\"",
+            "ingredient": "Gram_flour"
+        }
+    },
+    {
+        "prompt": "Explain Bhajji, including information about similar dish, ingredient",
+        "output": "\n\nBhajji is a type of Indian fritter made with a variety of vegetables, such as potatoes, onions, and eggplant. It is usually served as a snack or appetizer. The vegetables are dipped in a batter made of chickpea flour, spices, and water, and then deep-fried until golden brown. Bhajji is similar to pakora, another Indian fritter, but the batter for bhajji is thinner and the vegetables are cut into smaller pieces. The preparation of bhajji is simple and quick, making it a popular snack in India. It is often served with chutney or ketchup.",
+        "model": "text-davinci-003",
+        "category": "Food",
+        "id": "Id213",
+        "orig_entity_info": {
+            "similar_dish": "\"Pakora and other fritters made from wheat or corn flour\"",
+            "ingredient": "Vegetable"
+        }
+    },
+    {
+        "prompt": "Explain Bionico, including information about country, ingredient",
+        "output": "\n\nBionico is a traditional Mexican dessert that originated in the state of Jalisco. It is a combination of fresh fruits, such as apples, bananas, strawberries, and pineapple, mixed with cream, yogurt, granola, and other ingredients. The fruits are cut into small pieces and mixed with the other ingredients. The mixture is then served in a bowl or cup and topped with honey, condensed milk, and other sweet toppings. Bionico is a popular dessert in Mexico and is often served at parties and special occasions.",
+        "model": "text-davinci-003",
+        "category": "Food",
+        "id": "Id233",
+        "orig_entity_info": {
+            "country": "Mexico",
+            "ingredient": "Raisin"
+        }
+    },
+    {
+        "prompt": "Explain Bionico, including information about dish variation, course",
+        "output": "\n\nBionico is a traditional Mexican dish that is typically served as a dessert or snack. It is made with a combination of fresh fruits, nuts, and cream. The fruits used in the dish vary depending on the region, but typically include bananas, apples, strawberries, and pineapple. The nuts used in the dish are usually almonds, walnuts, and pecans. The cream used is usually a combination of condensed milk, evaporated milk, and cream cheese. The dish is usually served cold and is often topped with a sprinkle of cinnamon or sugar. Bionico is a popular dish in Mexico and is often served at parties and special occasions.",
+        "model": "text-davinci-003",
+        "category": "Food",
+        "id": "Id243",
+        "orig_entity_info": {
+            "dish_variation": "Cottage_cheese",
+            "course": "Dessert"
+        }
+    },
+    {
+        "prompt": "Explain 1955 Dodge, including information about engine, alternative name",
+        "output": "\n\nThe 1955 Dodge was a full-size car produced by the Chrysler Corporation. It was available in two models, the Coronet and the Royal. The Coronet was the base model and the Royal was the top-of-the-line model.\n\nThe 1955 Dodge was powered by a 230 cubic inch, 115 horsepower inline six-cylinder engine. An optional V8 engine was also available.\n\nThe 1955 Dodge was also known as the \"Forward Look\" model, due to its modern styling. It featured a wraparound windshield, a one-piece curved side window, and a low-slung roofline. It also had a wide grille with a large center bar and a hood ornament. The interior featured a two-tone dashboard and a steering wheel with a horn ring.",
+        "model": "text-davinci-003",
+        "category": "MeanOfTransportation",
+        "id": "Id6",
+        "orig_entity_info": {
+            "engine": "V8_engine",
+            "alternative_name": "\"Dodge Coronet\""
+        }
+    },
+    {
+        "prompt": "Explain A-Rosa Luna, including information about completion date, length",
+        "output": "\n\nA-Rosa Luna is a luxury river cruise ship operated by A-Rosa Cruises. It was built in 2006 and is currently the oldest ship in the A-Rosa fleet. The ship is 135 meters long and can accommodate up to 462 passengers. It features a variety of amenities, including a spa, fitness center, and multiple restaurants and bars.\n\nThe A-Rosa Luna offers a variety of itineraries throughout Europe, including trips to Germany, Austria, Hungary, and the Netherlands. Prices for a seven-night cruise start at around \u20ac1,000 per person.",
+        "model": "text-davinci-003",
+        "category": "MeanOfTransportation",
+        "id": "Id16",
+        "orig_entity_info": {
+            "completion_date": "2005-04-06",
+            "length": "125800.0 (millimetres)"
+        }
+    },
+    {
+        "prompt": "Explain AIDAluna, including information about length, power type",
+        "output": "\n\nAIDAluna is a cruise ship owned and operated by the German cruise line AIDA Cruises. It was built in 2009 and is the fourth of the AIDA fleet. The ship is 250 meters long, has a gross tonnage of 76,000, and can accommodate up to 3,250 passengers. It is powered by two diesel engines and two gas turbines, giving it a total power output of over 70,000 kW. AIDAluna offers a variety of amenities, including multiple restaurants, bars, lounges, a spa, a theater, and a casino. It also has a variety of cabins, ranging from standard cabins to suites.",
+        "model": "text-davinci-003",
+        "category": "MeanOfTransportation",
+        "id": "Id26",
+        "orig_entity_info": {
+            "length": "252000.0 (millimetres)",
+            "power_type": "Caterpillar_Inc."
+        }
+    },
+    {
+        "prompt": "Explain AIDAstella, including information about ship in service, length",
+        "output": "\n\nAIDAstella is a cruise ship owned and operated by AIDA Cruises, a German cruise line. The ship was built in 2013 and is currently in service. It has a length of 880 feet (268 meters) and a passenger capacity of 2,194. It has 12 decks and features a variety of amenities, including a spa, fitness center, multiple restaurants, bars, and lounges, a theater, and a casino. It also has a variety of cabins, ranging from interior to balcony to suite. AIDAstella is a popular choice for cruises in the Mediterranean and Baltic Sea.",
+        "model": "text-davinci-003",
+        "category": "MeanOfTransportation",
+        "id": "Id36",
+        "orig_entity_info": {
+            "ship_in_service": "2013-03-17",
+            "length": "253260.0 (millimetres)"
+        }
+    },
+    {
+        "prompt": "Explain ALCO RS-3, including information about builder, engine",
+        "output": "\n\nThe ALCO RS-3 is a diesel-electric locomotive built by the American Locomotive Company (ALCO) between 1950 and 1956. It was the first ALCO road switcher locomotive, and was designed to replace steam locomotives in freight service.\n\nThe RS-3 was powered by an ALCO 539 prime mover, a V-12 engine rated at 1,500 horsepower. It had a B-B wheel arrangement, with two axles in each truck, and was equipped with a dynamic brake system.\n\nThe RS-3 was designed for general freight service, and was used by many railroads in the United States and Canada. It was also used in passenger service, and was popular with commuter railroads. The RS-3 was a reliable and versatile locomotive, and many of them are still in service today.",
+        "model": "text-davinci-003",
+        "category": "MeanOfTransportation",
+        "id": "Id46",
+        "orig_entity_info": {
+            "builder": "Montreal_Locomotive_Works",
+            "engine": "V12_engine"
+        }
+    },
+    {
+        "prompt": "Explain ALV X-1, including information about failed launches, diameter",
+        "output": "\n\nALV X-1 was an experimental rocket developed by the United States Air Force in the 1950s. It was designed to test the feasibility of using a rocket to launch a satellite into orbit. The rocket was designed to be launched from a launch pad at White Sands Missile Range in New Mexico.\n\nThe ALV X-1 was a two-stage rocket, with a diameter of 2.5 meters and a total length of 10.7 meters. It had a total weight of 8,000 kilograms and was powered by a combination of solid and liquid propellants. The first stage was powered by a solid propellant, while the second stage was powered by a liquid propellant.\n\nThe ALV X-1 was launched four times between 1957 and 1958, but all four launches were unsuccessful. The first launch failed due to a guidance system malfunction, while the second launch failed due to a fuel leak. The third launch failed due to a guidance system malfunction, and the fourth launch failed due to a fuel leak.\n\nThe payload of the ALV X-1 was a small satellite, which was designed to measure the Earth's magnetic field. The satellite was equipped with a magnetometer, a device used to measure the strength of the Earth's magnetic field. The satellite was also equipped with a radio transmitter, which was used to transmit data back to the ground station.",
+        "model": "text-davinci-003",
+        "category": "MeanOfTransportation",
+        "id": "Id56",
+        "orig_entity_info": {
+            "failed_launches": "1",
+            "diameter": "1.524 (metres)"
+        }
+    },
+    {
+        "prompt": "Explain AMC Matador, including information about assembly, model years",
+        "output": "\n\nThe AMC Matador was a mid-size car produced by American Motors Corporation (AMC) from 1971 to 1978. It was available in two-door coupe, four-door sedan, and station wagon body styles. The Matador was assembled at AMC's Brampton, Ontario, Canada plant, and at its Kenosha, Wisconsin, USA plant.\n\nThe Matador was introduced in 1971 as a replacement for the AMC Rebel. It was available in base, S, and Oleg Cassini trim levels. The base model was powered by a 232 cu in (3.8 L) I6 engine, while the S and Oleg Cassini models were powered by a 304 cu in (5.0 L) V8. In 1972, the base model was upgraded to a 258 cu in (4.2 L) I6 engine.\n\nThe Matador was redesigned for the 1974 model year, with a longer wheelbase and a more aerodynamic body style. The base model was powered by a 258 cu in (4.2 L) I6 engine, while the S and Oleg Cassini models were powered by a 360 cu in (5.9 L) V8. In 1975, the base model was upgraded to a 304 cu in (5.0 L) V8 engine.\n\nThe Matador was redesigned again for the 1977 model year, with a more angular body style. The base model was powered by a 258 cu in (4.2 L) I6 engine, while the S and Oleg Cassini models were powered by a 360 cu in (5.9 L) V8. In 1978, the base model was upgraded to a 304 cu in (5.0 L) V8 engine.\n\nThe Matador was discontinued after the 1978 model year.",
+        "model": "text-davinci-003",
+        "category": "MeanOfTransportation",
+        "id": "Id66",
+        "orig_entity_info": {
+            "assembly": "Thames,_New_Zealand",
+            "model_years": "1971"
+        }
+    },
+    {
+        "prompt": "Explain Abarth 1000 GT Coup\u00e9, including information about wheelbase, body style",
+        "output": "\n\nThe Abarth 1000 GT Coup\u00e9 is a classic Italian sports car produced by Abarth from 1961 to 1965. It was designed by Carlo Abarth and was based on the Fiat 600. The car had a wheelbase of 2,200 mm (86.6 in) and a body style of a two-door coup\u00e9. It was powered by a 982 cc (60 cu in) inline-four engine that produced up to 55 kW (75 hp). The car had a top speed of 140 km/h (87 mph). It featured a four-speed manual transmission and a four-wheel independent suspension. The car was available in a variety of colors, including red, blue, and yellow.",
+        "model": "text-davinci-003",
+        "category": "MeanOfTransportation",
+        "id": "Id86",
+        "orig_entity_info": {
+            "wheelbase": "2160.0 (millimetres)",
+            "body_style": "Coup\u00e9"
+        }
+    },
+    {
+        "prompt": "Explain Acura TLX, including information about manufacturer, engine",
+        "output": "\n\nThe Acura TLX is a mid-size luxury sedan manufactured by Honda's luxury division, Acura. It was first introduced in 2015 as a replacement for the Acura TL and TSX models. The TLX is available with either a 2.4-liter four-cylinder engine or a 3.5-liter V6 engine. Both engines are paired with an 8-speed dual-clutch transmission.\n\nThe TLX comes with a variety of features, including a power moonroof, heated front seats, dual-zone climate control, and a multi-view rear camera. It also offers a variety of driver-assist technologies, such as adaptive cruise control, lane-keeping assist, and blind-spot monitoring. The TLX also offers a variety of luxury features, such as leather upholstery, a power-adjustable driver's seat, and a premium audio system.",
+        "model": "text-davinci-003",
+        "category": "MeanOfTransportation",
+        "id": "Id96",
+        "orig_entity_info": {
+            "manufacturer": "Honda",
+            "engine": "Honda_K_engine"
+        }
+    },
+    {
+        "prompt": "Explain Alfa Romeo 164, including information about assembly, related mean of transportation",
+        "output": "\n\nThe Alfa Romeo 164 is a four-door executive sedan that was produced by the Italian automaker Alfa Romeo from 1987 to 1998. It was the last model to be developed while the Alfa Romeo was still a fully independent company, before its merger with Fiat in 1986.\n\nThe 164 was assembled at Alfa Romeo's Arese plant in Milan, Italy. It was also assembled in South Africa, where it was sold as the Alfa Romeo 164 S.\n\nThe 164 was related to the Alfa Romeo 75, which was a mid-size sedan. It was also related to the Alfa Romeo 155, which was a compact sedan.\n\nThe Alfa Romeo 164 was powered by a range of engines, including a 2.0-liter four-cylinder, a 3.0-liter V6, and a 3.0-liter turbocharged V6. The engines were mated to either a five-speed manual or a four-speed automatic transmission.\n\nThe Alfa Romeo 164 was a popular car in Europe, and it was also sold in the United States. It was praised for its performance, handling, and styling.",
+        "model": "text-davinci-003",
+        "category": "MeanOfTransportation",
+        "id": "Id106",
+        "orig_entity_info": {
+            "assembly": "Arese",
+            "related_mean_of_transportation": "Lancia_Thema"
+        }
+    },
+    {
+        "prompt": "Explain Alvis Speed 25, including information about transmission, class",
+        "output": "\n\nThe Alvis Speed 25 is a British luxury car that was produced by Alvis Car and Engineering Company from 1936 to 1940. It was the flagship model of the Alvis range and was the first car to be fitted with an independent front suspension. The Speed 25 was a large, four-door saloon with a six-cylinder, 3.5-litre engine. It was available with either a four-speed manual or a four-speed pre-selector gearbox. The car was classified as a luxury car and was one of the most expensive cars of its time. The Speed 25 was capable of reaching speeds of up to 90 mph (145 km/h). It was also known for its excellent handling and roadholding. The Speed 25 was a popular car among the wealthy and was often seen at race tracks and rallies.",
+        "model": "text-davinci-003",
+        "category": "MeanOfTransportation",
+        "id": "Id126",
+        "orig_entity_info": {
+            "transmission": "\"single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle\"",
+            "class": "Full-size_car"
+        }
+    },
+    {
+        "prompt": "Explain Antares (rocket), including information about final flight, launch site",
+        "output": "\n\nAntares is an expendable launch system developed by Orbital Sciences Corporation (now Northrop Grumman Innovation Systems) and used to launch the Cygnus spacecraft to the International Space Station (ISS). The Antares rocket was first launched in April 2013 and has since completed nine successful launches.\n\nThe final flight of the Antares rocket was launched on November 2, 2018 from the Mid-Atlantic Regional Spaceport (MARS) at Wallops Island, Virginia. The payload for this mission was the Cygnus CRS OA-10 spacecraft, which carried over 7,400 pounds of supplies and experiments to the ISS.\n\nThe Antares rocket is a two-stage launch vehicle powered by two AJ-26 engines. The first stage is powered by a single AJ-26 engine and the second stage is powered by a single Castor 30XL motor. The rocket is capable of launching payloads of up to 13,000 pounds into low Earth orbit.",
+        "model": "text-davinci-003",
+        "category": "MeanOfTransportation",
+        "id": "Id136",
+        "orig_entity_info": {
+            "final_flight": "2014-10-28",
+            "launch_site": "Mid-Atlantic_Regional_Spaceport"
+        }
+    },
+    {
+        "prompt": "Explain Ariane 5, including information about partial failures, diameter",
+        "output": "\n\nAriane 5 is an expendable launch system developed by the European Space Agency (ESA). It is the most powerful launcher in the Ariane family and is capable of carrying payloads of up to 10 tons into geostationary transfer orbit (GTO). It is the only launcher currently in service that is capable of launching two satellites at once.\n\nThe Ariane 5 has a diameter of 5.4 meters and is powered by two solid rocket boosters and a cryogenic main stage. The solid rocket boosters are jettisoned after two minutes of flight, while the main stage continues to burn for another nine minutes.\n\nThe Ariane 5 is designed to be highly reliable, with a success rate of over 95%. However, it is also designed to be able to cope with partial failures. In the event of a partial failure, the launcher is able to adjust its trajectory to ensure that the payload is still delivered to its intended destination.\n\nThe Ariane 5 is capable of carrying a wide variety of payloads, including satellites, interplanetary probes, and even humans. It has been used to launch a number of important missions, including the Rosetta mission to comet 67P/Churyumov-Gerasimenko and the Mars Express mission.",
+        "model": "text-davinci-003",
+        "category": "MeanOfTransportation",
+        "id": "Id156",
+        "orig_entity_info": {
+            "partial_failures": "2",
+            "diameter": "5.4 (metres)"
+        }
+    },
+    {
+        "prompt": "Explain Aston Martin V8, including information about related mean of transportation, manufacturer",
+        "output": "\n\nAston Martin V8 is a series of luxury sports cars manufactured by British car manufacturer Aston Martin. The V8 series was first introduced in 1969 and has been in production ever since. The V8 series is powered by a 4.0-litre V8 engine, which produces up to 510 horsepower. The V8 series is available in both coupe and convertible body styles, and is available with either a manual or automatic transmission. The V8 series is also available in a variety of trim levels, including the Vantage, Vanquish, and DB11. The V8 series is considered to be one of the most iconic and luxurious sports cars in the world, and is often seen in movies and television shows.",
+        "model": "text-davinci-003",
+        "category": "MeanOfTransportation",
+        "id": "Id166",
+        "orig_entity_info": {
+            "related_mean_of_transportation": "Aston_Martin_DBS",
+            "manufacturer": "Aston_Martin"
+        }
+    },
+    {
+        "prompt": "Explain 11th Mississippi Infantry Monument, including information about location, established",
+        "output": "\n\nThe 11th Mississippi Infantry Monument is located in the Vicksburg National Military Park in Vicksburg, Mississippi. It was established in 1910 to commemorate the service of the 11th Mississippi Infantry Regiment during the American Civil War. The monument is a granite obelisk that stands approximately 30 feet tall and is inscribed with the names of the regiment's officers and enlisted men. The monument was dedicated on April 22, 1910, and is a reminder of the sacrifices made by the men of the 11th Mississippi Infantry Regiment during the war. The monument serves as a reminder of the courage and dedication of the men who fought and died for their cause.",
+        "model": "text-davinci-003",
+        "category": "Monument",
+        "id": "Id5",
+        "orig_entity_info": {
+            "location": "Adams_County,_Pennsylvania",
+            "established": "2000"
+        }
+    },
+    {
+        "prompt": "Explain 14th New Jersey Volunteer Infantry Monument, including information about district, established",
+        "output": "\n\nThe 14th New Jersey Volunteer Infantry Monument is located in the Gettysburg National Military Park in Gettysburg, Pennsylvania. It was established in 1889 to commemorate the service of the 14th New Jersey Volunteer Infantry Regiment during the Battle of Gettysburg in 1863. The monument is a granite obelisk that stands at the center of a circular stone platform. It is inscribed with the names of the regiment's officers and the number of men who served in the regiment. The monument is located in the Wheatfield area of the battlefield, where the 14th New Jersey Volunteer Infantry Regiment fought during the battle. The monument serves as a reminder of the bravery and sacrifice of the men who fought in the Battle of Gettysburg.",
+        "model": "text-davinci-003",
+        "category": "Monument",
+        "id": "Id15",
+        "orig_entity_info": {
+            "district": "Monocacy_National_Battlefield",
+            "established": "\"1907-07-11\""
+        }
+    },
+    {
+        "prompt": "Explain Baku Turkish Martyrs' Memorial, including information about native name, designer",
+        "output": "\n\nThe Baku Turkish Martyrs' Memorial is a memorial located in Baku, Azerbaijan, dedicated to the memory of the victims of the Armenian-Azerbaijani conflict of the early 1990s. The memorial was designed by Azerbaijani architect Fuad Salayev and was completed in 1997. The memorial is located in the city center, near the Martyrs' Lane and the National Flag Square. The memorial is composed of a large stone monument, which is inscribed with the names of the victims, and a smaller monument in the shape of a crescent moon, which is a symbol of the Turkish people. The memorial is also surrounded by a garden, which is filled with trees and flowers. The native name of the memorial is Az\u0259rbaycan T\u00fcrk \u015e\u0259hidl\u0259ri An\u0131t\u0131.",
+        "model": "text-davinci-003",
+        "category": "Monument",
+        "id": "Id25",
+        "orig_entity_info": {
+            "native_name": "\"T\u00fcrk \u015eehitleri An\u0131t\u0131\"",
+            "designer": "\"H\u00fcseyin B\u00fct\u00fcner and Hilmi G\u00fcner\""
+        }
+    },
+    {
+        "prompt": "Explain Ab Klink, including information about alma mater, birth place",
+        "output": "\n\nAb Klink is a Dutch politician and former Minister of Social Affairs and Employment. He was born in Rotterdam, Netherlands, on April 28, 1951. He studied law at the University of Amsterdam and graduated in 1977.\n\nKlink began his career as a lawyer in Amsterdam and later became a member of the Dutch House of Representatives in 1998. He served as Minister of Social Affairs and Employment from 2002 to 2010. During his tenure, he was responsible for introducing a number of reforms to the Dutch labor market, including the introduction of a minimum wage and the implementation of a flexible labor market.\n\nKlink is a member of the Christian Democratic Appeal (CDA) party and is currently a member of the Senate. He is also a member of the European Council of Ministers and the European Commission.",
+        "model": "text-davinci-003",
+        "category": "Politician",
+        "id": "Id13",
+        "orig_entity_info": {
+            "alma_mater": "Leiden_University",
+            "birth_place": "Stellendam"
+        }
+    },
+    {
+        "prompt": "Explain Abdul Taib Mahmud, including information about birth place, successor",
+        "output": "\n\nAbdul Taib Mahmud is a Malaysian politician who served as the Chief Minister of Sarawak from 1981 to 2014. He was born in Miri, Sarawak, on 21 May 1936. He is the longest-serving Chief Minister in Malaysia's history.\n\nHe was succeeded by Adenan Satem in 2014. During his tenure, he was credited with modernizing Sarawak's infrastructure and economy. He was also responsible for the development of the Sarawak Corridor of Renewable Energy (SCORE), a project to develop the state's economy through the use of renewable energy sources.\n\nTaib's career in politics began in 1967 when he was elected to the Sarawak State Legislative Assembly. He was appointed as the Minister of Resource Planning and Environment in 1970 and later as the Minister of Finance in 1976. In 1981, he was appointed as the Chief Minister of Sarawak and held the position until 2014. During his tenure, he was credited with modernizing Sarawak's infrastructure and economy.",
+        "model": "text-davinci-003",
+        "category": "Politician",
+        "id": "Id23",
+        "orig_entity_info": {
+            "birth_place": "Kingdom_of_Sarawak",
+            "successor": "Abdul_Rahman_Ya'kub"
+        }
+    },
+    {
+        "prompt": "Explain Abdulsalami Abubakar, including information about birth place, alma mater",
+        "output": "\n\nAbdulsalami Abubakar is a Nigerian politician and retired military general who served as the President of Nigeria from 1998 to 1999. He was born on June 13, 1942 in Minna, Niger State, Nigeria. He attended the Nigerian Military Training College in Kaduna and the Mons Officer Cadet School in Aldershot, England.\n\nAbubakar had a long and distinguished career in the Nigerian military, rising to the rank of General in 1985. He served as the Chief of Defence Staff from 1993 to 1998, and was appointed as the Chairman of the Provisional Ruling Council in 1998 following the death of General Sani Abacha. He was sworn in as President of Nigeria in June 1998, and served until May 1999. During his tenure, he oversaw the transition to a democratic government and the successful conduct of the 1999 presidential elections.",
+        "model": "text-davinci-003",
+        "category": "Politician",
+        "id": "Id33",
+        "orig_entity_info": {
+            "birth_place": "Niger_State",
+            "alma_mater": "Technical_Institute,_Kaduna"
+        }
+    },
+    {
+        "prompt": "Explain Abel Caballero, including information about alma mater, birth place",
+        "output": "\n\nAbel Caballero is a Spanish politician who has served as the President of the Xunta de Galicia since 2015. He was born in Vigo, Galicia, Spain, in 1956. He studied law at the University of Santiago de Compostela and graduated in 1979.\n\nCaballero began his political career in 1983, when he was elected to the Vigo City Council. He was later elected to the Galician Parliament in 1987, and served as the Minister of Economy and Finance from 2005 to 2009. In 2015, he was elected President of the Xunta de Galicia, the regional government of Galicia.\n\nAs President of the Xunta de Galicia, Caballero has focused on improving the economy of Galicia, creating jobs, and promoting the region's culture and tourism. He has also worked to improve the region's infrastructure, including the construction of new roads and bridges.",
+        "model": "text-davinci-003",
+        "category": "Politician",
+        "id": "Id43",
+        "orig_entity_info": {
+            "alma_mater": "University_of_Santiago_de_Compostela",
+            "birth_place": "Galicia_(Spain)"
+        }
+    },
+    {
+        "prompt": "Explain Abner W. Sibal, including information about office, successor",
+        "output": "\n\nAbner W. Sibal was the Secretary of the Department of Education of the Philippines from July 2010 to June 2016. He was appointed by President Benigno Aquino III and succeeded by Leonor Briones.\n\nDuring his tenure, Sibal focused on improving the quality of education in the Philippines. He implemented the K-12 program, which added two years to the basic education cycle, and the Unified Student Financial Assistance System for Tertiary Education (UniFAST), which provided financial assistance to students in tertiary education. He also launched the Philippine Qualifications Framework, which aimed to make the country's qualifications more competitive in the global market.\n\nSibal also worked to improve the quality of teachers in the Philippines. He implemented the Performance-Based Bonus System, which rewarded teachers for their performance, and the Teacher Education Council, which aimed to improve the quality of teacher education in the country. He also launched the Teacher Induction Program, which provided support and guidance to new teachers.\n\nOverall, Sibal's tenure as Secretary of Education was marked by a focus on improving the quality of education in the Philippines. He implemented a number of initiatives that aimed to make the country's education system more competitive in the global market and to improve the quality of teachers in the country.",
+        "model": "text-davinci-003",
+        "category": "Politician",
+        "id": "Id63",
+        "orig_entity_info": {
+            "office": "\"Member of the Connecticut Senate from the 26th District\"",
+            "successor": "Donald_J._Irwin"
+        }
+    },
+    {
+        "prompt": "Explain Abraham A. Ribicoff, including information about death place, birth place",
+        "output": "\n\nAbraham Alexander Ribicoff (April 9, 1910 \u2013 February 22, 1998) was an American politician from Connecticut. He served as a U.S. Representative, U.S. Senator, and the 80th Governor of Connecticut. He was the first Jewish Cabinet member, serving as Secretary of Health, Education, and Welfare under President John F. Kennedy.\n\nRibicoff was born in New Britain, Connecticut, to Jewish immigrant parents from Poland. He attended public schools in New Britain and graduated from New Britain High School in 1927. He then attended the University of Chicago, where he earned a Bachelor of Arts degree in 1931. He then attended Yale Law School, where he earned a Bachelor of Laws degree in 1934.\n\nRibicoff began his political career in the Connecticut House of Representatives, where he served from 1939 to 1942. He then served in the U.S. House of Representatives from 1943 to 1949. He was elected to the U.S. Senate in 1952 and served until 1963. He was then elected Governor of Connecticut in 1962 and served until 1971.\n\nRibicoff died in 1998 in Washington, D.C. at the age of 87.",
+        "model": "text-davinci-003",
+        "category": "Politician",
+        "id": "Id73",
+        "orig_entity_info": {
+            "death_place": "United_States",
+            "birth_place": "Connecticut"
+        }
+    },
+    {
+        "prompt": "Explain Adam Koc, including information about battle, award",
+        "output": "\n\nAdam Koc (1890-1919) was a Polish soldier and national hero who fought in the Polish-Soviet War of 1919-1920. He was born in the village of Koczargi in the Lublin region of Poland.\n\nKoc was a member of the Polish Army and fought in the Battle of Warsaw in August 1920. He was awarded the Virtuti Militari, Poland's highest military decoration, for his bravery and leadership during the battle. He was also awarded the Cross of Valour for his actions in the Battle of Radzymin.\n\nKoc was killed in action during the Battle of Komar\u00f3w on August 31, 1919. He was posthumously awarded the Order of Polonia Restituta, Poland's highest civilian decoration, for his bravery and dedication to the Polish cause. His death was mourned by the entire nation and he is remembered as a symbol of Polish patriotism and courage.",
+        "model": "text-davinci-003",
+        "category": "Politician",
+        "id": "Id93",
+        "orig_entity_info": {
+            "battle": "Polish\u2013Soviet_War",
+            "award": "Order_of_Polonia_Restituta"
+        }
+    },
+    {
+        "prompt": "Explain Albert B. White, including information about party, successor",
+        "output": "\n\nAlbert B. White (1868-1951) was a Republican politician from Indiana who served as the state's 24th Governor from 1925 to 1929. He was succeeded by Harry G. Leslie, also a Republican.\n\nWhite was a strong advocate for fiscal responsibility and was known for his efforts to reduce government spending and balance the state budget. He also supported the development of the state's infrastructure, including the construction of new roads and bridges. He was a proponent of the state's agricultural industry and worked to improve the quality of life for rural Hoosiers. He also supported the expansion of the state's educational system, including the establishment of the Indiana State Teachers College. White was also a strong supporter of Prohibition and was a vocal opponent of the Ku Klux Klan.",
+        "model": "text-davinci-003",
+        "category": "Politician",
+        "id": "Id143",
+        "orig_entity_info": {
+            "party": "Republican_Party_(United_States)",
+            "successor": "William_M._O._Dawson"
+        }
+    },
+    {
+        "prompt": "Explain Albert Jennings Fountain, including information about in office while vice president, death place",
+        "output": "\n\nAlbert Jennings Fountain (1837-1896) was an American lawyer, politician, and soldier who served as a Vice President of the Confederate States of America during the American Civil War. He was born in Georgia and educated at the University of Georgia. After the war, he returned to Georgia and practiced law in Atlanta.\n\nFountain was elected to the Georgia House of Representatives in 1868 and served as a member of the Georgia Senate from 1872 to 1876. He was elected Vice President of the Confederate States of America in 1876 and served until the end of the war in 1865.\n\nFountain was a strong advocate for the rights of former Confederate soldiers and was instrumental in the passage of the Confederate Pension Act of 1883. He was also a leader in the movement to restore civil rights to former Confederate soldiers.\n\nFountain died in 1896 in Atlanta, Georgia. He is buried in Oakland Cemetery in Atlanta.",
+        "model": "text-davinci-003",
+        "category": "Politician",
+        "id": "Id163",
+        "orig_entity_info": {
+            "in_office_while_vice_president": "Edmund_J._Davis",
+            "death_place": "United_States"
+        }
+    },
+    {
+        "prompt": "Explain Alberto Teisaire, including information about successor, birth place",
+        "output": "\n\nAlberto Teisaire (1890-1962) was a Spanish military officer and politician who served as the Prime Minister of Spain from 1951 to 1953. He was born in Madrid, Spain, and was a member of the Spanish Army from 1910 to 1945. He was a major general in the Spanish Civil War and was appointed Minister of War in 1945. He was a member of the Spanish government from 1945 to 1951, and was appointed Prime Minister in 1951. He was succeeded by Francisco Franco in 1953. Teisaire died in 1962 in Madrid.",
+        "model": "text-davinci-003",
+        "category": "Politician",
+        "id": "Id173",
+        "orig_entity_info": {
+            "successor": "Isaac_Rojas",
+            "birth_place": "Mendoza,_Argentina"
+        }
+    },
+    {
+        "prompt": "Explain Alfons Gorbach, including information about in office while president, birth place",
+        "output": "\n\nAlfons Gorbach (1925-2015) was an Austrian politician who served as the President of Austria from 1986 to 1992. He was born in Vienna, Austria, and studied law at the University of Vienna.\n\nDuring his time in office, Gorbach focused on improving Austria's relations with its neighbors, particularly Germany and Hungary. He also sought to strengthen Austria's ties with the European Union and the United Nations. He was a strong advocate for environmental protection and was instrumental in the creation of the Austrian Environmental Protection Agency.\n\nGorbach was also a strong supporter of the European Union and was a key figure in the negotiations leading to Austria's accession to the EU in 1995. He was also a strong advocate for human rights and was a vocal critic of the Soviet Union's occupation of Czechoslovakia.\n\nGorbach died in 2015 at the age of 90. He is remembered as a strong leader who helped to shape Austria's modern identity.",
+        "model": "text-davinci-003",
+        "category": "Politician",
+        "id": "Id183",
+        "orig_entity_info": {
+            "in_office_while_president": "Adolf_Sch\u00e4rf",
+            "birth_place": "Imst"
+        }
+    },
+    {
+        "prompt": "Explain Alfred Moore Scales, including information about successor, alma mater",
+        "output": "\n\nAlfred Moore Scales (1827-1892) was an American lawyer, politician, and Confederate general. He was born in Halifax County, North Carolina and attended the University of North Carolina at Chapel Hill, where he graduated in 1847. He was admitted to the bar in 1848 and began practicing law in Halifax County.\n\nScales served in the North Carolina House of Commons from 1854 to 1856 and was a delegate to the state's secession convention in 1861. He was appointed a brigadier general in the Confederate Army and served in the Army of Northern Virginia. He was wounded at the Battle of Gettysburg and later served in the Army of Tennessee.\n\nAfter the war, Scales returned to his law practice and was elected to the North Carolina Senate in 1876. He was a delegate to the Democratic National Convention in 1880 and was appointed a judge of the North Carolina Supreme Court in 1881. He served on the court until his death in 1892.\n\nScales' son, Alfred Moore Scales, Jr., was also a lawyer and politician. He served in the North Carolina House of Representatives from 1895 to 1897 and was a delegate to the Democratic National Convention in 1896. He was appointed a judge of the North Carolina Supreme Court in 1901 and served until his death in 1915.",
+        "model": "text-davinci-003",
+        "category": "Politician",
+        "id": "Id193",
+        "orig_entity_info": {
+            "successor": "Daniel_Gould_Fowle",
+            "alma_mater": "University_of_North_Carolina_at_Chapel_Hill"
+        }
+    },
+    {
+        "prompt": "Explain Allan Shivers, including information about successor, office",
+        "output": "\n\nAllan Shivers was the Governor of Texas from 1949 to 1957. He was a Democrat and succeeded Beauford Jester. Shivers was known for his strong support of segregation and his opposition to labor unions. He was also a strong supporter of the oil industry and was instrumental in the development of the Texas oil industry. During his term, he was able to pass legislation that increased the state's revenue from oil and gas production. He also worked to improve the state's infrastructure and education system. Shivers was succeeded by Price Daniel in 1957.",
+        "model": "text-davinci-003",
+        "category": "Politician",
+        "id": "Id213",
+        "orig_entity_info": {
+            "successor": "Ben_Ramsey",
+            "office": "\"Lieutenant Governor of Texas\""
+        }
+    },
+    {
+        "prompt": "Explain Alvah Sabin, including information about region, active years end date",
+        "output": "\n\nAlvah Sabin (1890-1956) was an American geologist and paleontologist who worked in the western United States. He was born in Iowa and studied geology at the University of Iowa. He worked for the United States Geological Survey (USGS) from 1915 to 1956, and was the chief paleontologist for the USGS from 1945 to 1956. He was known for his work in the Rocky Mountains, the Great Basin, and the Colorado Plateau. He was also an expert in the study of fossil plants and animals, and his research helped to establish the geological history of the region. He was a member of the National Academy of Sciences and the Geological Society of America. He died in 1956 in Washington, D.C.",
+        "model": "text-davinci-003",
+        "category": "Politician",
+        "id": "Id223",
+        "orig_entity_info": {
+            "region": "Vermont",
+            "active_years_end_date": "1857-03-03"
+        }
+    },
+    {
+        "prompt": "Explain 1. FC K\u00f6ln, including information about season, number of members",
+        "output": "\n\n1. FC K\u00f6ln is a German professional football club based in Cologne, North Rhine-Westphalia. The club was founded in 1948 and currently plays in the Bundesliga, the top tier of German football. The club has over 100,000 members, making it the fourth largest club in Germany.\n\nThe club has had a successful history, winning the German championship in 1962 and 1978, and the German Cup in 1968 and 1977. They have also been runners-up in the German Cup in 1973 and 1983. In recent years, the club has been in the top half of the Bundesliga table, finishing as high as fourth in the 2017-18 season.\n\nThe club has a strong rivalry with Borussia M\u00f6nchengladbach, and the two teams contest the Rhineland derby. The club also has a rivalry with Bayer Leverkusen, and the two teams contest the Rhine derby.",
+        "model": "text-davinci-003",
+        "category": "SportsTeam",
+        "id": "Id5",
+        "orig_entity_info": {
+            "season": "2014",
+            "number_of_members": "50000"
+        }
+    },
+    {
+        "prompt": "Explain A.C. Cesena, including information about ground, number of members",
+        "output": "\n\nA.C. Cesena is an Italian football club based in Cesena, Emilia-Romagna. The club was founded in 1940 and currently plays in Serie C, the third tier of Italian football.\n\nThe club's home ground is the Stadio Dino Manuzzi, which has a capacity of 23,860.\n\nA.C. Cesena has a large fan base, with over 10,000 members. The club has a long and successful history, having won the Serie B title in the 1993\u201394 season and the Coppa Italia Serie C in the 2011\u201312 season. They have also competed in the UEFA Cup and the Coppa Italia.",
+        "model": "text-davinci-003",
+        "category": "SportsTeam",
+        "id": "Id15",
+        "orig_entity_info": {
+            "ground": "Italy",
+            "number_of_members": "23900"
+        }
+    },
+    {
+        "prompt": "Explain A.C. Chievo Verona, including information about league, ground",
+        "output": "\n\nA.C. Chievo Verona is an Italian football club based in Verona, Veneto. The club was founded in 1929 and currently plays in Serie A, the top tier of Italian football. The team's home ground is the Stadio Marc'Antonio Bentegodi, which has a capacity of 39,211.\n\nThe club has had a long and successful history in Italian football, having won the Serie B title in 2001 and the Coppa Italia in 2002. They have also been a regular fixture in the top half of the Serie A table, finishing as high as fourth in the 2004-05 season. The club has also had success in European competitions, reaching the UEFA Cup semi-finals in 2002.",
+        "model": "text-davinci-003",
+        "category": "SportsTeam",
+        "id": "Id25",
+        "orig_entity_info": {
+            "league": "Serie_A",
+            "ground": "Verona"
+        }
+    },
+    {
+        "prompt": "Explain A.D. Isidro Metap\u00e1n, including information about league, ground",
+        "output": "\n\nA.D. Isidro Metap\u00e1n is a professional football club based in Metap\u00e1n, El Salvador. The club currently competes in the Primera Divisi\u00f3n de F\u00fatbol Profesional, the top tier of El Salvador's football league system. The club was founded in 1948 and is one of the oldest clubs in El Salvador.\n\nThe club plays its home matches at Estadio Jorge Calero Su\u00e1rez, which has a capacity of 8,000. The stadium is located in the city of Metap\u00e1n and is named after Jorge Calero Su\u00e1rez, a former president of the club.\n\nA.D. Isidro Metap\u00e1n has won the Primera Divisi\u00f3n de F\u00fatbol Profesional three times, in the years 2000, 2002, and 2004. The club has also won the Copa El Salvador twice, in the years 2001 and 2003. The club has also participated in the CONCACAF Champions League on several occasions, reaching the quarter-finals in the 2004 edition.",
+        "model": "text-davinci-003",
+        "category": "SportsTeam",
+        "id": "Id45",
+        "orig_entity_info": {
+            "league": "Salvadoran_Primera_Divisi\u00f3n",
+            "ground": "Metap\u00e1n"
+        }
+    },
+    {
+        "prompt": "Explain A.S. Livorno Calcio, including information about ground, number of members",
+        "output": "\n\nA.S. Livorno Calcio is an Italian football club based in Livorno, Tuscany. The club was founded in 1915 and currently plays in Serie C, the third tier of Italian football.\n\nThe club's home ground is the Stadio Armando Picchi, which has a capacity of 19,234. The stadium was built in 1933 and is named after the former Livorno player Armando Picchi, who died in 1971.\n\nA.S. Livorno Calcio has around 10,000 members, making it one of the largest clubs in Italy.\n\nThe club has had a long and successful history, having won the Serie B title in the 2003\u201304 season and the Coppa Italia Serie C in the 2017\u201318 season. The club has also competed in the UEFA Cup and the UEFA Champions League.",
+        "model": "text-davinci-003",
+        "category": "SportsTeam",
+        "id": "Id85",
+        "orig_entity_info": {
+            "ground": "\"Livorno, Italy\"",
+            "number_of_members": "19238"
+        }
+    },
+    {
+        "prompt": "Explain A.S. Roma, including information about ground, number of members",
+        "output": "\n\nA.S. Roma is an Italian professional football club based in Rome, Italy. The club was founded in 1927 and currently plays in the Serie A, the top tier of Italian football. The club's home ground is the Stadio Olimpico, which has a capacity of over 70,000.\n\nA.S. Roma is one of the most successful clubs in Italian football, having won three Serie A titles, nine Coppa Italia titles, and two Supercoppa Italiana titles. The club has also won one UEFA Cup and two Intercontinental Cups.\n\nA.S. Roma has a large and passionate fan base, with over 1.5 million members. The club's official fan club is known as the Curva Sud, which is located in the south end of the Stadio Olimpico. The club also has a large international fan base, with supporters in countries such as the United States, Canada, and Australia.\n\nA.S. Roma has a long and storied history, having been founded in 1927 by Italo Foschi. The club has had many great players over the years, including Francesco Totti, Daniele De Rossi, and Alessandro Nesta. The club has also had many great managers, including Fabio Capello, Rudi Garcia, and Eusebio Di Francesco.",
+        "model": "text-davinci-003",
+        "category": "SportsTeam",
+        "id": "Id95",
+        "orig_entity_info": {
+            "ground": "Stadio_Olimpico",
+            "number_of_members": "70634"
+        }
+    },
+    {
+        "prompt": "Explain AEK Athens F.C., including information about league, ground",
+        "output": "\n\nAEK Athens F.C. is a professional football club based in Athens, Greece. Founded in 1924, the club currently competes in the Super League Greece, the top tier of the Greek football league system. AEK Athens F.C. plays its home matches at the Olympic Stadium in Athens, which has a capacity of 69,618.\n\nAEK Athens F.C. has won the Greek championship 11 times, the Greek Cup 8 times, and the Greek Super Cup 4 times. The club has also won the Balkans Cup twice and the Mitropa Cup once. AEK Athens F.C. has also been successful in European competitions, reaching the quarter-finals of the UEFA Champions League in 1977-78 and the semi-finals of the UEFA Cup Winners' Cup in 1978-79.\n\nThe club has a long and storied history, having been founded in 1924 by Greek refugees from Constantinople. The club has had many famous players, including Giorgos Koudas, Vassilis Hatzipanagis, and Demis Nikolaidis. AEK Athens F.C. has also had many famous managers, including Dusan Bajevic, Fernando Santos, and Gus Poyet.",
+        "model": "text-davinci-003",
+        "category": "SportsTeam",
+        "id": "Id105",
+        "orig_entity_info": {
+            "league": "Superleague_Greece",
+            "ground": "Athens"
+        }
+    },
+    {
+        "prompt": "Explain Agremia\u00e7\u00e3o Sportiva Arapiraquense, including information about number of members, manager",
+        "output": "\n\nAgremia\u00e7\u00e3o Sportiva Arapiraquense, commonly known as ASA, is a Brazilian football club based in Arapiraca, Alagoas. The club was founded in 1948 and currently plays in the Campeonato Alagoano, the top tier of the Alagoas state football league.\n\nASA has a total of around 1,000 members, including players, staff, and supporters. The club is managed by president Paulo Henrique Gomes, who was elected in 2019.\n\nThe club's home stadium is the Est\u00e1dio Coaracy da Mata Fonseca, which has a capacity of 8,000. The stadium is located in the city of Arapiraca, in the state of Alagoas.",
+        "model": "text-davinci-003",
+        "category": "SportsTeam",
+        "id": "Id145",
+        "orig_entity_info": {
+            "number_of_members": "17000",
+            "manager": "Vica"
+        }
+    },
+    {
+        "prompt": "Explain Akron Summit Assault, including information about number of members, season",
+        "output": "\n\nAkron Summit Assault is a competitive youth soccer club based in Akron, Ohio. The club was founded in 2011 and currently has over 1,000 members ranging from ages 4 to 18. The club is a member of the Ohio South Youth Soccer Association and the US Club Soccer.\n\nThe club's season runs from August to May and consists of both recreational and competitive teams. The competitive teams compete in the Ohio South State League, the Ohio South Presidents Cup, and the US Club Soccer National Cup. The club also offers a variety of camps and clinics throughout the year.\n\nThe club's goal is to provide a positive and competitive environment for its players to develop their skills and reach their full potential. The club also strives to promote the game of soccer in the Akron area and to provide a safe and enjoyable experience for all of its members.",
+        "model": "text-davinci-003",
+        "category": "SportsTeam",
+        "id": "Id155",
+        "orig_entity_info": {
+            "number_of_members": "3000",
+            "season": "2011"
+        }
+    },
+    {
+        "prompt": "Explain AWH Engineering College, including information about academic staff size, city",
+        "output": "\n\nAWH Engineering College is a private engineering college located in Kozhikode, Kerala, India. It was established in 2002 and is affiliated to the University of Calicut. The college offers undergraduate and postgraduate courses in engineering and technology.\n\nThe college has a total academic staff size of around 200, including professors, associate professors, and assistant professors. The college also has a number of non-teaching staff members.\n\nAWH Engineering College offers a range of undergraduate and postgraduate courses in engineering and technology, including B.Tech, M.Tech, and Ph.D. programs. The college also offers a number of diploma and certificate courses.\n\nThe college has a number of modern facilities, including a library, laboratories, and computer centers. The college also has a number of student clubs and societies, which organize various activities and events throughout the year.",
+        "model": "text-davinci-003",
+        "category": "University",
+        "id": "Id5",
+        "orig_entity_info": {
+            "academic_staff_size": "250",
+            "city": "\"Kuttikkattoor\""
+        }
+    },
+    {
+        "prompt": "Explain Acharya Institute of Technology, including information about affiliation, state",
+        "output": "\n\nAcharya Institute of Technology (AIT) is a private engineering college located in Bengaluru, Karnataka, India. It is affiliated to Visvesvaraya Technological University (VTU) and approved by the All India Council for Technical Education (AICTE).\n\nAIT offers undergraduate, postgraduate, and doctoral programs in engineering, management, and computer applications. The institute has a total of 14 departments, including Computer Science and Engineering, Electronics and Communication Engineering, Mechanical Engineering, Information Science and Engineering, Civil Engineering, Electrical and Electronics Engineering, Biotechnology, and Business Administration.\n\nAIT also offers a range of research and development activities, such as the Centre for Research and Development, Centre for Advanced Studies, and Centre for Entrepreneurship Development. The institute also has a number of student clubs and societies, such as the Robotics Club, the Entrepreneurship Development Cell, and the Literary Club.\n\nAIT also provides a range of student services, such as career guidance, placement assistance, and student counseling. The institute also has a number of student-run clubs and societies, such as the Music Club, the Photography Club, and the Sports Club.",
+        "model": "text-davinci-003",
+        "category": "University",
+        "id": "Id15",
+        "orig_entity_info": {
+            "affiliation": "Visvesvaraya_Technological_University",
+            "state": "Karnataka"
+        }
+    },
+    {
+        "prompt": "Explain 1634: The Bavarian Crisis, including information about author, media type",
+        "output": "\n\n1634: The Bavarian Crisis is a novel written by Eric Flint and Virginia DeMarce. It is the fourth book in the 1632 series, a series of alternate history novels set in the 17th century. The novel follows the characters of the series as they attempt to prevent a war between the Catholic League and the Protestant Union in the Holy Roman Empire. The novel focuses on the political and religious tensions between the two sides, as well as the characters' attempts to find a peaceful resolution to the crisis. The novel was published in 2006 and is available in both paperback and ebook formats.",
+        "model": "text-davinci-003",
+        "category": "WrittenWork",
+        "id": "Id6",
+        "orig_entity_info": {
+            "author": "Eric_Flint",
+            "media_type": "Hardcover"
+        }
+    },
+    {
+        "prompt": "Explain 1634: The Bavarian Crisis, including information about preceded by, author",
+        "output": "\n\nThe Bavarian Crisis of 1634 was a conflict between the Catholic League and the Protestant Union in the Holy Roman Empire. It was preceded by the Edict of Restitution, issued by Emperor Ferdinand II in 1629, which sought to restore Catholic control over Protestant territories. The crisis was written about by the German historian Leopold von Ranke in his book The History of the Reformation in Germany.\n\nThe crisis began when the Protestant Union, led by the Elector of Saxony, declared war on the Catholic League in 1632. This led to a series of battles and sieges throughout the Empire, with the Protestant Union eventually emerging victorious. The outcome of the crisis was the Peace of Prague in 1635, which ended the war and restored religious freedom in the Empire.",
+        "model": "text-davinci-003",
+        "category": "WrittenWork",
+        "id": "Id16",
+        "orig_entity_info": {
+            "preceded_by": "1634:_The_Ram_Rebellion",
+            "author": "\"Virginia DeMarce and Eric Flint\""
+        }
+    },
+    {
+        "prompt": "Explain 1634: The Ram Rebellion, including information about author, isbn number",
+        "output": "\n\n1634: The Ram Rebellion is a historical novel by Eric Flint and Virginia DeMarce, published in 2006 by Baen Books. The ISBN number is 978-0-7434-9072-2. The novel is set in the 17th century, during the Thirty Years' War, and follows the adventures of a group of English and Dutch settlers who are sent to the New World to establish a colony in the Chesapeake Bay area. The settlers must contend with the native Powhatan Indians, as well as the Spanish and French forces that are vying for control of the region. The novel follows the settlers as they fight to establish their colony and defend it against the various forces that threaten it.",
+        "model": "text-davinci-003",
+        "category": "WrittenWork",
+        "id": "Id26",
+        "orig_entity_info": {
+            "author": "Virginia_DeMarce",
+            "isbn_number": "\"1-4165-2060-0\""
+        }
+    },
+    {
+        "prompt": "Explain AIP Advances, including information about impact factor, abbreviation",
+        "output": "\n\nAIP Advances is a peer-reviewed, open access journal published by the American Institute of Physics (AIP). It covers all areas of physics, including applied, theoretical, and experimental research. The journal has an impact factor of 1.845, which is an indication of the journal's relative importance in the field of physics. The abbreviation for AIP Advances is AIP Adv. The scope of the journal includes research in all areas of physics, including applied, theoretical, and experimental research. It also covers topics such as materials science, nanotechnology, and energy.",
+        "model": "text-davinci-003",
+        "category": "WrittenWork",
+        "id": "Id56",
+        "orig_entity_info": {
+            "impact_factor": "\"1.524\"",
+            "abbreviation": "\"AIP Adv.\""
+        }
+    },
+    {
+        "prompt": "Explain A Glastonbury Romance, including information about author, publisher",
+        "output": "\n\nA Glastonbury Romance is a novel by English author John Cowper Powys, first published in 1932. It is set in the fictional town of Glastonbury in Somerset, England, and follows the lives of several characters as they experience love, loss, and spiritual transformation. The novel is considered to be a classic of English literature and has been praised for its vivid descriptions of the town and its people. The novel was published by Constable & Co. in London.\n\nThe novel follows the lives of several characters, including the narrator, a young man named Philip Crow. Philip is a dreamer and a romantic, and he falls in love with a mysterious woman named Gwendolen. As their relationship develops, Philip discovers that Gwendolen is a spiritual being who has been sent to Glastonbury to help the townspeople find peace and harmony. As the novel progresses, Philip and Gwendolen's relationship is tested by the townspeople's prejudices and superstitions, and by the secrets of Gwendolen's past. The novel culminates in a climactic scene in which Philip and Gwendolen are reunited and the townspeople are transformed by their love.",
+        "model": "text-davinci-003",
+        "category": "WrittenWork",
+        "id": "Id66",
+        "orig_entity_info": {
+            "author": "John_Cowper_Powys",
+            "publisher": "The_Bodley_Head"
+        }
+    },
+    {
+        "prompt": "Explain A Long Long Way, including information about oclc number, media type",
+        "output": "\n\nA Long Long Way is a novel by Irish author Sebastian Barry, first published in 2005. It tells the story of Willie Dunne, an Irish soldier who enlists in the British Army during World War I. The novel follows Willie's experiences in the trenches of the Western Front, as well as his relationships with his family back home in Dublin.\n\nOCLC Number: 60984590\n\nMedia Type: Book\n\nSubject: World War I -- Fiction; Irish -- Fiction; Soldiers -- Fiction; Dublin (Ireland) -- Fiction",
+        "model": "text-davinci-003",
+        "category": "WrittenWork",
+        "id": "Id76",
+        "orig_entity_info": {
+            "oclc_number": "57392246",
+            "media_type": "Hardcover"
+        }
+    },
+    {
+        "prompt": "Explain A Loyal Character Dancer, including information about isbn number, number of pages",
+        "output": "\n\nA Loyal Character Dancer is a novel written by Qiu Xiaolong and published by Soho Press in 2002. It is the first book in the Inspector Chen Cao series. The ISBN number is 978-1569473020 and the book has 288 pages. The novel follows Inspector Chen Cao, a Chinese police officer, as he investigates a murder in Shanghai. The novel is set in the 1990s and explores the changing political and social landscape of China during this time. It is a gripping mystery that delves into the complexities of Chinese culture and politics.",
+        "model": "text-davinci-003",
+        "category": "WrittenWork",
+        "id": "Id86",
+        "orig_entity_info": {
+            "isbn_number": "\"1-56947-301-3\"",
+            "number_of_pages": "\"360\""
+        }
+    },
+    {
+        "prompt": "Explain A Loyal Character Dancer, including information about language, country",
+        "output": "\n\nA Loyal Character Dancer is a traditional Chinese dance that originated in the Henan Province of China. It is a form of folk dance that is performed to express loyalty and devotion to the emperor. The dance is characterized by its graceful and elegant movements, which are often accompanied by music. The dancers wear traditional Chinese costumes and use props such as fans and swords to enhance the performance. The dance is usually performed in a circle, with the dancers taking turns to perform the steps. The dance is often performed during festivals and other special occasions. It is a popular form of entertainment in China and is often seen in Chinese films and television shows.",
+        "model": "text-davinci-003",
+        "category": "WrittenWork",
+        "id": "Id96",
+        "orig_entity_info": {
+            "language": "English_language",
+            "country": "United_States"
+        }
+    },
+    {
+        "prompt": "Explain A Severed Wasp, including information about number of pages, isbn number",
+        "output": "\n\nA Severed Wasp is a novel by Madeleine L'Engle, published in 1982. It is a coming-of-age story about a young girl named Vicky Austin, who is struggling to find her place in the world. The novel is 256 pages long and has an ISBN number of 978-0-374-38862-2. It was published by Farrar, Straus and Giroux.",
+        "model": "text-davinci-003",
+        "category": "WrittenWork",
+        "id": "Id106",
+        "orig_entity_info": {
+            "number_of_pages": "\"388\"",
+            "isbn_number": "\"0-374-26131-8\""
+        }
+    },
+    {
+        "prompt": "Explain A Wizard of Mars, including information about publisher, preceded by",
+        "output": "\n\nA Wizard of Mars is a science fiction novel written by Diane Duane and published by Tor Books in 2015. It is the ninth book in the Young Wizards series, which follows the adventures of two young wizards, Nita and Kit, as they explore the universe. The novel follows the two as they travel to Mars to investigate a mysterious magical force that is threatening the planet. Along the way, they must battle a powerful wizard and his minions, as well as a powerful alien race. The novel is full of action, adventure, and magic, and is sure to delight fans of the series.",
+        "model": "text-davinci-003",
+        "category": "WrittenWork",
+        "id": "Id116",
+        "orig_entity_info": {
+            "publisher": "Harcourt_(publisher)",
+            "preceded_by": "Wizards_at_War"
+        }
+    },
+    {
+        "prompt": "Explain Above the Veil, including information about number of pages, isbn number",
+        "output": "\n\nAbove the Veil is a fantasy novel written by author J.D. Brown. It is the first book in the Veil Series and was published in 2017. The book is 336 pages long and has an ISBN number of 978-1548184590. It follows the story of a young girl named Lilliana who discovers she has magical powers and must use them to save her kingdom from a powerful enemy. The book is full of adventure, mystery, and romance as Lilliana embarks on a journey to save her kingdom and discover her true identity.",
+        "model": "text-davinci-003",
+        "category": "WrittenWork",
+        "id": "Id126",
+        "orig_entity_info": {
+            "number_of_pages": "\"248\"",
+            "isbn_number": "\"0-439-17685-9\""
+        }
+    },
+    {
+        "prompt": "Explain Aenir, including information about number of pages, isbn number",
+        "output": "\n\nAenir is a fantasy novel written by British author Alan Garner. It is the third book in the series The Weirdstone of Brisingamen, and was first published in 1991. The novel has a total of 256 pages and its ISBN number is 978-0140375090.\n\nThe story follows the adventures of two children, Colin and Susan, as they attempt to save the world from the evil forces of Aenir. Along the way, they must battle monsters, solve puzzles, and make difficult choices. The novel is set in the fictional English county of Cheshire, and features a variety of mythical creatures and characters. The novel has been praised for its imaginative world-building and its exploration of themes such as friendship, loyalty, and courage.",
+        "model": "text-davinci-003",
+        "category": "WrittenWork",
+        "id": "Id156",
+        "orig_entity_info": {
+            "number_of_pages": "\"233\"",
+            "isbn_number": "\"0-439-17684-0\""
+        }
+    },
+    {
+        "prompt": "Explain Alcatraz Versus the Evil Librarians, including information about media type, number of pages",
+        "output": "\n\nAlcatraz Versus the Evil Librarians is a fantasy novel written by Brandon Sanderson. It is the first book in the Alcatraz series and was published in 2007. The novel is aimed at young adults and is approximately 320 pages long.\n\nThe novel follows the story of Alcatraz Smedry, a 13-year-old boy who discovers he has special powers. He is sent to live with his grandfather, who reveals to him that the world is being controlled by a secret society of evil librarians. Alcatraz must use his special powers to save the world from the librarians and their plans for world domination. Along the way, he meets a variety of allies and enemies, and learns more about his own mysterious past.",
+        "model": "text-davinci-003",
+        "category": "WrittenWork",
+        "id": "Id166",
+        "orig_entity_info": {
+            "media_type": "Hardcover",
+            "number_of_pages": "\"320\""
+        }
+    }
+]
