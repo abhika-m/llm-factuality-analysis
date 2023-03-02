@@ -1,7 +1,7 @@
 [
     {
         "prompt": "Explain Amsterdam Airport Schiphol, including information about city Served, runway Length",
-        "output": ", and passenger Capacity\n\nAmsterdam Airport Schiphol is the main international airport of the Netherlands, located 9 kilometers southwest of Amsterdam. It is the third busiest airport in Europe in terms of passenger numbers, serving over 70 million passengers in 2019. The airport is a hub for KLM, Transavia, and TUI fly Netherlands.\n\nThe airport has one main runway, which is 4,000 meters long and is capable of handling the largest commercial aircraft. It also has two secondary runways, which are 2,500 meters and 1,800 meters long respectively.\n\nThe airport has a total passenger capacity of over 60 million passengers per year, with over 500,000 aircraft movements annually. It has three passenger terminals, with a total of over 100 gates. The airport also has a wide range of amenities, including shops, restaurants, and lounges.",
+        "output": "\n\nAmsterdam Airport Schiphol is the main international airport of the Netherlands, located 9 kilometers southwest of Amsterdam. It is the third busiest airport in Europe in terms of passenger numbers, serving over 70 million passengers in 2019. The airport is a hub for KLM, Transavia, and TUI fly Netherlands.\n\nThe airport has one main runway, which is 4,000 meters long and is capable of handling the largest commercial aircraft. It also has two secondary runways, which are 2,500 meters and 1,800 meters long respectively.\n\nThe airport has a total passenger capacity of over 60 million passengers per year, with over 500,000 aircraft movements annually. It has three passenger terminals, with a total of over 100 gates. The airport also has a wide range of amenities, including shops, restaurants, and lounges.",
         "model": "text-davinci-003",
         "category": "Airport",
         "id": "Id106",
@@ -12,7 +12,7 @@
     },
     {
         "prompt": "Explain Agust\u00edn Barboza, including information about birth Place, death Place",
-        "output": ", and career\n\nAgust\u00edn Barboza (1917-1982) was an Argentine poet, essayist, and literary critic. He was born in Buenos Aires, Argentina, and died in the same city.\n\nBarboza was a major figure in the Latin American literary movement known as the \"Generation of '45,\" which sought to create a new kind of literature that was more accessible and relevant to the everyday lives of Latin Americans. He was a prolific writer, publishing numerous books of poetry, essays, and criticism. His most famous works include El hombre y la tierra (Man and Earth, 1945), El hombre y el tiempo (Man and Time, 1947), and El hombre y el lenguaje (Man and Language, 1951).\n\nBarboza was also an influential literary critic, writing extensively on the works of other Latin American writers such as Jorge Luis Borges, Pablo Neruda, and Octavio Paz. He was a professor at the University of Buenos Aires and was a member of the Argentine Academy of Letters. He was awarded the National Prize for Literature in 1975.",
+        "output": "\n\nAgust\u00edn Barboza (1917-1982) was an Argentine poet, essayist, and literary critic. He was born in Buenos Aires, Argentina, and died in the same city.\n\nBarboza was a major figure in the Latin American literary movement known as the \"Generation of '45,\" which sought to create a new kind of literature that was more accessible and relevant to the everyday lives of Latin Americans. He was a prolific writer, publishing numerous books of poetry, essays, and criticism. His most famous works include El hombre y la tierra (Man and Earth, 1945), El hombre y el tiempo (Man and Time, 1947), and El hombre y el lenguaje (Man and Language, 1951).\n\nBarboza was also an influential literary critic, writing extensively on the works of other Latin American writers such as Jorge Luis Borges, Pablo Neruda, and Octavio Paz. He was a professor at the University of Buenos Aires and was a member of the Argentine Academy of Letters. He was awarded the National Prize for Literature in 1975.",
         "model": "text-davinci-003",
         "category": "Artist",
         "id": "Id63",
@@ -33,7 +33,7 @@
     },
     {
         "prompt": "Explain Aaron Hunt, including information about club, club",
-        "output": " career, and international career\n\nAaron Hunt is a German professional footballer who plays as an attacking midfielder for Bundesliga club Werder Bremen.\n\nClub career:\n\nHunt began his career with VfL Wolfsburg, making his debut in the Bundesliga in 2006. He spent four seasons with the club, making over 100 appearances in all competitions. In 2010, Hunt joined Werder Bremen, where he has since made over 250 appearances in all competitions. He has been a key player for the club, helping them to a fourth-place finish in the Bundesliga in 2011\u201312 and a DFB-Pokal win in 2009.\n\nInternational career:\n\nHunt has represented Germany at various youth levels, including the U-21 team. He made his senior debut for Germany in 2011, and has since made four appearances for the national team.",
+        "output": "\n\nAaron Hunt is a German professional footballer who plays as an attacking midfielder for Bundesliga club Werder Bremen.\n\nClub career:\n\nHunt began his career with VfL Wolfsburg, making his debut in the Bundesliga in 2006. He spent four seasons with the club, making over 100 appearances in all competitions. In 2010, Hunt joined Werder Bremen, where he has since made over 250 appearances in all competitions. He has been a key player for the club, helping them to a fourth-place finish in the Bundesliga in 2011\u201312 and a DFB-Pokal win in 2009.\n\nInternational career:\n\nHunt has represented Germany at various youth levels, including the U-21 team. He made his senior debut for Germany in 2011, and has since made four appearances for the national team.",
         "model": "text-davinci-003",
         "category": "Athlete",
         "id": "Id16",
@@ -43,7 +43,7 @@
     },
     {
         "prompt": "Explain Alaa Abdul-Zahra, including information about club, club",
-        "output": " career, and international career\n\nAlaa Abdul-Zahra is an Iraqi professional footballer who plays as a winger for Al-Shorta in the Iraqi Premier League. He is also a member of the Iraq national team.\n\nClub Career:\n\nAbdul-Zahra began his career with Al-Shorta in 2008, and has since become a key player for the club. He has made over 200 appearances for the club, scoring over 40 goals. He has also won several domestic titles with Al-Shorta, including the Iraqi Premier League in 2011 and 2013.\n\nInternational Career:\n\nAbdul-Zahra made his debut for the Iraq national team in 2011, and has since become a regular member of the squad. He has represented Iraq at the 2012 and 2013 AFC Asian Cup, and was part of the team that won the 2013 WAFF Championship. He has also been part of the squad for the 2019 AFC Asian Cup, where Iraq reached the quarter-finals.",
+        "output": "\n\nAlaa Abdul-Zahra is an Iraqi professional footballer who plays as a winger for Al-Shorta in the Iraqi Premier League. He is also a member of the Iraq national team.\n\nClub Career:\n\nAbdul-Zahra began his career with Al-Shorta in 2008, and has since become a key player for the club. He has made over 200 appearances for the club, scoring over 40 goals. He has also won several domestic titles with Al-Shorta, including the Iraqi Premier League in 2011 and 2013.\n\nInternational Career:\n\nAbdul-Zahra made his debut for the Iraq national team in 2011, and has since become a regular member of the squad. He has represented Iraq at the 2012 and 2013 AFC Asian Cup, and was part of the team that won the 2013 WAFF Championship. He has also been part of the squad for the 2019 AFC Asian Cup, where Iraq reached the quarter-finals.",
         "model": "text-davinci-003",
         "category": "Athlete",
         "id": "Id91",
@@ -53,7 +53,7 @@
     },
     {
         "prompt": "Explain Asher and Mary Isabelle Richardson House, including information about location, national register of historic places reference Number",
-        "output": ", and year of construction\n\nThe Asher and Mary Isabelle Richardson House is located in the city of St. Louis, Missouri. It was added to the National Register of Historic Places in 1983, with the reference number 83003179. The house was built in 1891 and is a two-story brick building with a hipped roof. It is an example of the Queen Anne style of architecture, with a wrap-around porch, decorative brickwork, and a turret. The house is significant for its association with the Richardson family, who were prominent in the St. Louis business and social community in the late 19th and early 20th centuries.",
+        "output": "\n\nThe Asher and Mary Isabelle Richardson House is located in the city of St. Louis, Missouri. It was added to the National Register of Historic Places in 1983, with the reference number 83003179. The house was built in 1891 and is a two-story brick building with a hipped roof. It is an example of the Queen Anne style of architecture, with a wrap-around porch, decorative brickwork, and a turret. The house is significant for its association with the Richardson family, who were prominent in the St. Louis business and social community in the late 19th and early 20th centuries.",
         "model": "text-davinci-003",
         "category": "Building",
         "id": "Id128",
@@ -86,7 +86,7 @@
     },
     {
         "prompt": "Explain Anaheim, California, including information about utc Offset, area Total",
-        "output": ", and Population\n\nAnaheim, California is a city located in Orange County, California. It is the tenth most populous city in California, with a population of over 350,000 people. Anaheim is located in the Pacific Time Zone, with an UTC offset of -7 hours. The total area of Anaheim is 50.7 square miles, with a population density of 6,945 people per square mile. Anaheim is home to the Disneyland Resort, the Anaheim Convention Center, and the Honda Center. It is also home to several professional sports teams, including the Anaheim Ducks of the National Hockey League and the Los Angeles Angels of Major League Baseball.",
+        "output": "\n\nAnaheim, California is a city located in Orange County, California. It is the tenth most populous city in California, with a population of over 350,000 people. Anaheim is located in the Pacific Time Zone, with an UTC offset of -7 hours. The total area of Anaheim is 50.7 square miles, with a population density of 6,945 people per square mile. Anaheim is home to the Disneyland Resort, the Anaheim Convention Center, and the Honda Center. It is also home to several professional sports teams, including the Anaheim Ducks of the National Hockey League and the Los Angeles Angels of Major League Baseball.",
         "model": "text-davinci-003",
         "category": "City",
         "id": "Id51",
@@ -108,7 +108,7 @@
     },
     {
         "prompt": "Explain Auron (comicsCharacter), including information about creator, creator",
-        "output": "'s nationality, and the character's origin\n\nAuron is a fictional character created by French comic book artist and writer Jean-David Morvan. He is a superhero from the French comic book series Sillage. Auron is a mysterious alien who crash-landed on Earth and was found by a group of scientists. He has superhuman strength, speed, and agility, as well as the ability to manipulate energy. He is also able to fly and has a healing factor. Auron is a protector of Earth and its inhabitants, and he is often seen fighting against alien threats. He is also a member of the superhero team known as the Sillage.",
+        "output": "\n\nAuron is a fictional character created by French comic book artist and writer Jean-David Morvan. He is a superhero from the French comic book series Sillage. Auron is a mysterious alien who crash-landed on Earth and was found by a group of scientists. He has superhuman strength, speed, and agility, as well as the ability to manipulate energy. He is also able to fly and has a healing factor. Auron is a protector of Earth and its inhabitants, and he is often seen fighting against alien threats. He is also a member of the superhero team known as the Sillage.",
         "model": "text-davinci-003",
         "category": "ComicsCharacter",
         "id": "Id16",
@@ -118,7 +118,7 @@
     },
     {
         "prompt": "Explain AmeriGas, including information about operating Income, net Income",
-        "output": ", and revenue\n\nAmeriGas is the largest retail propane distributor in the United States, serving over two million customers in all 50 states. The company is a publicly traded company on the New York Stock Exchange (NYSE: APU).\n\nAmeriGas operates in two segments: Propane and Refined Fuels. The Propane segment is the largest segment and is responsible for the majority of the company\u2019s revenue. This segment is responsible for the sale, distribution, and marketing of propane and related products and services. The Refined Fuels segment is responsible for the sale, distribution, and marketing of refined fuels, such as diesel and gasoline.\n\nIn 2020, AmeriGas reported total revenue of $4.9 billion, operating income of $1.1 billion, and net income of $717 million. The company\u2019s operating income was up 8.3% from 2019, while net income was up 4.3%. The company\u2019s revenue was up 4.2% from 2019.",
+        "output": "\n\nAmeriGas is the largest retail propane distributor in the United States, serving over two million customers in all 50 states. The company is a publicly traded company on the New York Stock Exchange (NYSE: APU).\n\nAmeriGas operates in two segments: Propane and Refined Fuels. The Propane segment is the largest segment and is responsible for the majority of the company\u2019s revenue. This segment is responsible for the sale, distribution, and marketing of propane and related products and services. The Refined Fuels segment is responsible for the sale, distribution, and marketing of refined fuels, such as diesel and gasoline.\n\nIn 2020, AmeriGas reported total revenue of $4.9 billion, operating income of $1.1 billion, and net income of $717 million. The company\u2019s operating income was up 8.3% from 2019, while net income was up 4.3%. The company\u2019s revenue was up 4.2% from 2019.",
         "model": "text-davinci-003",
         "category": "Company",
         "id": "Id14",
@@ -129,7 +129,7 @@
     },
     {
         "prompt": "Explain Ajoblanco, including information about region, ingredient",
-        "output": ", and preparation\n\nAjoblanco is a traditional cold soup from the Andalusian region of Spain. It is made with garlic, almonds, olive oil, and stale bread, and is usually served with grapes or melon. The ingredients are blended together until a thick, creamy consistency is achieved. The soup is typically served chilled, and is often garnished with a drizzle of olive oil and a sprinkle of paprika. It is a popular summer dish in Spain, and is often served as a starter or light meal.",
+        "output": "\n\nAjoblanco is a traditional cold soup from the Andalusian region of Spain. It is made with garlic, almonds, olive oil, and stale bread, and is usually served with grapes or melon. The ingredients are blended together until a thick, creamy consistency is achieved. The soup is typically served chilled, and is often garnished with a drizzle of olive oil and a sprinkle of paprika. It is a popular summer dish in Spain, and is often served as a starter or light meal.",
         "model": "text-davinci-003",
         "category": "Food",
         "id": "Id13",
@@ -140,7 +140,7 @@
     },
     {
         "prompt": "Explain Ayam penyet, including information about region, ingredient",
-        "output": ", and preparation\n\nAyam penyet is a popular Indonesian dish consisting of fried chicken that is smashed and then cooked in a spicy sambal sauce. It is usually served with steamed rice, fried tofu, and a side of vegetables. The dish originated in East Java, Indonesia, and is now popular throughout the country.\n\nThe main ingredient of ayam penyet is chicken, which is usually marinated in a mixture of spices and then deep-fried. The sambal sauce is made with a combination of chili peppers, garlic, shallots, and other spices. The fried tofu is usually served with a sweet and sour sauce. The vegetables are usually served as a side dish, and can include cucumber, bean sprouts, and cabbage.\n\nTo prepare ayam penyet, the chicken is first marinated in a mixture of spices and then deep-fried. The sambal sauce is then prepared by blending the chili peppers, garlic, shallots, and other spices together. The fried tofu is then served with a sweet and sour sauce. The vegetables are then cooked and served as a side dish. Finally, the fried chicken is smashed and cooked in the sambal sauce. The dish is then served with steamed rice and the side of vegetables.",
+        "output": "\n\nAyam penyet is a popular Indonesian dish consisting of fried chicken that is smashed and then cooked in a spicy sambal sauce. It is usually served with steamed rice, fried tofu, and a side of vegetables. The dish originated in East Java, Indonesia, and is now popular throughout the country.\n\nThe main ingredient of ayam penyet is chicken, which is usually marinated in a mixture of spices and then deep-fried. The sambal sauce is made with a combination of chili peppers, garlic, shallots, and other spices. The fried tofu is usually served with a sweet and sour sauce. The vegetables are usually served as a side dish, and can include cucumber, bean sprouts, and cabbage.\n\nTo prepare ayam penyet, the chicken is first marinated in a mixture of spices and then deep-fried. The sambal sauce is then prepared by blending the chili peppers, garlic, shallots, and other spices together. The fried tofu is then served with a sweet and sour sauce. The vegetables are then cooked and served as a side dish. Finally, the fried chicken is smashed and cooked in the sambal sauce. The dish is then served with steamed rice and the side of vegetables.",
         "model": "text-davinci-003",
         "category": "Food",
         "id": "Id88",
@@ -151,7 +151,7 @@
     },
     {
         "prompt": "Explain Bandeja paisa, including information about ingredient, country",
-        "output": " of origin, and preparation\n\nBandeja paisa is a traditional Colombian dish that originated in the Antioquia region of Colombia. It is a hearty meal that consists of a variety of ingredients, including white rice, red beans, ground beef, chorizo, plantain, arepa, avocado, chicharr\u00f3n, and a fried egg. The dish is usually served with a side of hogao, a tomato-based sauce. The dish is typically prepared by cooking the ground beef and chorizo together, then adding the red beans and rice. The plantain, arepa, and chicharr\u00f3n are then fried and served alongside the other ingredients. The dish is usually garnished with a fried egg and avocado slices. Bandeja paisa is a popular dish in Colombia and is often served at family gatherings and special occasions.",
+        "output": "\n\nBandeja paisa is a traditional Colombian dish that originated in the Antioquia region of Colombia. It is a hearty meal that consists of a variety of ingredients, including white rice, red beans, ground beef, chorizo, plantain, arepa, avocado, chicharr\u00f3n, and a fried egg. The dish is usually served with a side of hogao, a tomato-based sauce. The dish is typically prepared by cooking the ground beef and chorizo together, then adding the red beans and rice. The plantain, arepa, and chicharr\u00f3n are then fried and served alongside the other ingredients. The dish is usually garnished with a fried egg and avocado slices. Bandeja paisa is a popular dish in Colombia and is often served at family gatherings and special occasions.",
         "model": "text-davinci-003",
         "category": "Food",
         "id": "Id163",
@@ -162,7 +162,7 @@
     },
     {
         "prompt": "Explain Bionico, including information about course, ingredient",
-        "output": ", and origin\n\nBionico is a traditional Mexican dessert that originated in the state of Jalisco. It is a combination of fresh fruits, cream, granola, and other sweet toppings. The fruits used in Bionico vary depending on the region, but typically include bananas, apples, strawberries, and pineapple. The cream is usually a combination of condensed milk, cream cheese, and sour cream. The granola is usually a combination of oats, nuts, and dried fruits. Other toppings may include raisins, coconut flakes, and honey. Bionico is usually served in a bowl or cup and is a popular dessert in Mexico.",
+        "output": "\n\nBionico is a traditional Mexican dessert that originated in the state of Jalisco. It is a combination of fresh fruits, cream, granola, and other sweet toppings. The fruits used in Bionico vary depending on the region, but typically include bananas, apples, strawberries, and pineapple. The cream is usually a combination of condensed milk, cream cheese, and sour cream. The granola is usually a combination of oats, nuts, and dried fruits. Other toppings may include raisins, coconut flakes, and honey. Bionico is usually served in a bowl or cup and is a popular dessert in Mexico.",
         "model": "text-davinci-003",
         "category": "Food",
         "id": "Id238",
@@ -173,7 +173,7 @@
     },
     {
         "prompt": "Explain AIDAstella, including information about ship in Service, length",
-        "output": ", and passenger capacity\n\nAIDAstella is a cruise ship owned and operated by AIDA Cruises, a German cruise line. The ship was built in 2014 and is currently in service. It has a length of 964 feet (294 meters) and a passenger capacity of 2,194. AIDAstella offers a variety of amenities and activities, including a spa, fitness center, multiple restaurants, bars, and lounges, a casino, and a theater. The ship also features a variety of cabins and suites, ranging from standard cabins to luxury suites. AIDAstella sails to a variety of destinations, including the Mediterranean, the Caribbean, and the Baltic Sea.",
+        "output": "\n\nAIDAstella is a cruise ship owned and operated by AIDA Cruises, a German cruise line. The ship was built in 2014 and is currently in service. It has a length of 964 feet (294 meters) and a passenger capacity of 2,194. AIDAstella offers a variety of amenities and activities, including a spa, fitness center, multiple restaurants, bars, and lounges, a casino, and a theater. The ship also features a variety of cabins and suites, ranging from standard cabins to luxury suites. AIDAstella sails to a variety of destinations, including the Mediterranean, the Caribbean, and the Baltic Sea.",
         "model": "text-davinci-003",
         "category": "MeanOfTransportation",
         "id": "Id36",
@@ -184,7 +184,7 @@
     },
     {
         "prompt": "Explain Alfa Romeo 164, including information about related mean of Transportation, assembly",
-        "output": ", and engine\n\nThe Alfa Romeo 164 is a four-door executive saloon car that was produced by the Italian automaker Alfa Romeo from 1987 to 1998. It was designed by Pininfarina and was the last model to be developed while the Alfa Romeo was still a fully independent company, before its merger with Fiat in 1986.\n\nThe 164 was assembled at Alfa Romeo's Arese plant in Milan, Italy, and was available with a variety of petrol and diesel engines. The petrol engines ranged from a 2.0-litre four-cylinder to a 3.0-litre V6, while the diesel engines ranged from a 2.0-litre four-cylinder to a 2.4-litre five-cylinder. All engines were mated to a five-speed manual transmission, with the exception of the 3.0-litre V6, which was available with a four-speed automatic.\n\nThe 164 was well-received by the motoring press, with its combination of Italian styling, performance, and handling being praised. It was also praised for its spacious interior and comfortable ride. The 164 was also popular with buyers, with over 250,000 units being sold during its 11-year production run.",
+        "output": "\n\nThe Alfa Romeo 164 is a four-door executive saloon car that was produced by the Italian automaker Alfa Romeo from 1987 to 1998. It was designed by Pininfarina and was the last model to be developed while the Alfa Romeo was still a fully independent company, before its merger with Fiat in 1986.\n\nThe 164 was assembled at Alfa Romeo's Arese plant in Milan, Italy, and was available with a variety of petrol and diesel engines. The petrol engines ranged from a 2.0-litre four-cylinder to a 3.0-litre V6, while the diesel engines ranged from a 2.0-litre four-cylinder to a 2.4-litre five-cylinder. All engines were mated to a five-speed manual transmission, with the exception of the 3.0-litre V6, which was available with a four-speed automatic.\n\nThe 164 was well-received by the motoring press, with its combination of Italian styling, performance, and handling being praised. It was also praised for its spacious interior and comfortable ride. The 164 was also popular with buyers, with over 250,000 units being sold during its 11-year production run.",
         "model": "text-davinci-003",
         "category": "MeanOfTransportation",
         "id": "Id111",
@@ -195,7 +195,7 @@
     },
     {
         "prompt": "Explain Ab Klink, including information about party, birth Place",
-        "output": ", and career\n\nAb Klink (born August 28, 1951) is a Dutch politician of the Christian Democratic Appeal (CDA) party. He was born in Rotterdam, Netherlands.\n\nKlink has been a Member of the House of Representatives since 1998. He served as Minister of Social Affairs and Employment from 2002 to 2007 and as Minister of Health, Welfare and Sport from 2007 to 2010. He was also a Member of the Senate from 2011 to 2015.\n\nKlink has been active in politics since the 1980s, when he was a member of the Rotterdam city council. He was also a member of the provincial council of South Holland from 1995 to 1998. In 1998, he was elected to the House of Representatives.\n\nKlink is known for his strong commitment to social justice and his efforts to reduce poverty and inequality. He has also been a vocal advocate for the rights of the disabled and the elderly.",
+        "output": "\n\nAb Klink (born August 28, 1951) is a Dutch politician of the Christian Democratic Appeal (CDA) party. He was born in Rotterdam, Netherlands.\n\nKlink has been a Member of the House of Representatives since 1998. He served as Minister of Social Affairs and Employment from 2002 to 2007 and as Minister of Health, Welfare and Sport from 2007 to 2010. He was also a Member of the Senate from 2011 to 2015.\n\nKlink has been active in politics since the 1980s, when he was a member of the Rotterdam city council. He was also a member of the provincial council of South Holland from 1995 to 1998. In 1998, he was elected to the House of Representatives.\n\nKlink is known for his strong commitment to social justice and his efforts to reduce poverty and inequality. He has also been a vocal advocate for the rights of the disabled and the elderly.",
         "model": "text-davinci-003",
         "category": "Politician",
         "id": "Id18",
@@ -206,7 +206,7 @@
     },
     {
         "prompt": "Explain Adam Koc, including information about battle, award",
-        "output": ", and death\n\nAdam Koc (1890-1919) was a Polish soldier and national hero who fought in the Polish-Soviet War of 1919-1920. He was born in the village of Koczargi in the Lublin region of Poland.\n\nKoc was a member of the Polish Army and fought in the Battle of Warsaw in August 1920. He was awarded the Virtuti Militari, Poland's highest military decoration, for his bravery and leadership during the battle. He was also awarded the Cross of Valour for his actions in the Battle of Radzymin.\n\nKoc was killed in action during the Battle of Komar\u00f3w on August 31, 1919. He was posthumously awarded the Order of Polonia Restituta, Poland's highest civilian decoration, for his bravery and dedication to the Polish cause. His death was mourned by the entire nation and he is remembered as a symbol of Polish patriotism and courage.",
+        "output": "\n\nAdam Koc (1890-1919) was a Polish soldier and national hero who fought in the Polish-Soviet War of 1919-1920. He was born in the village of Koczargi in the Lublin region of Poland.\n\nKoc was a member of the Polish Army and fought in the Battle of Warsaw in August 1920. He was awarded the Virtuti Militari, Poland's highest military decoration, for his bravery and leadership during the battle. He was also awarded the Cross of Valour for his actions in the Battle of Radzymin.\n\nKoc was killed in action during the Battle of Komar\u00f3w on August 31, 1919. He was posthumously awarded the Order of Polonia Restituta, Poland's highest civilian decoration, for his bravery and dedication to the Polish cause. His death was mourned by the entire nation and he is remembered as a symbol of Polish patriotism and courage.",
         "model": "text-davinci-003",
         "category": "Politician",
         "id": "Id93",
@@ -228,7 +228,7 @@
     },
     {
         "prompt": "Explain Agremia\u00e7\u00e3o Sportiva Arapiraquense, including information about number of Members, manager",
-        "output": ", and history\n\nAgremia\u00e7\u00e3o Sportiva Arapiraquense, commonly known as ASA, is a Brazilian football club based in Arapiraca, Alagoas. The club was founded in 1965 and currently plays in the Campeonato Alagoano, the top tier of the Alagoas state football league.\n\nASA has a total of around 1,000 members, including players, staff, and supporters. The club is managed by president J\u00fanior Rocha, who has been in charge since 2017.\n\nThe club's history is closely linked to the city of Arapiraca, which is located in the interior of Alagoas. ASA was founded in 1965 by a group of local businessmen and has since become one of the most successful clubs in the state. The club has won the Campeonato Alagoano on four occasions, most recently in 2017. ASA has also competed in the Campeonato Brasileiro S\u00e9rie C on two occasions, in 2006 and 2007.",
+        "output": "\n\nAgremia\u00e7\u00e3o Sportiva Arapiraquense, commonly known as ASA, is a Brazilian football club based in Arapiraca, Alagoas. The club was founded in 1965 and currently plays in the Campeonato Alagoano, the top tier of the Alagoas state football league.\n\nASA has a total of around 1,000 members, including players, staff, and supporters. The club is managed by president J\u00fanior Rocha, who has been in charge since 2017.\n\nThe club's history is closely linked to the city of Arapiraca, which is located in the interior of Alagoas. ASA was founded in 1965 by a group of local businessmen and has since become one of the most successful clubs in the state. The club has won the Campeonato Alagoano on four occasions, most recently in 2017. ASA has also competed in the Campeonato Brasileiro S\u00e9rie C on two occasions, in 2006 and 2007.",
         "model": "text-davinci-003",
         "category": "SportsTeam",
         "id": "Id145",
@@ -239,7 +239,7 @@
     },
     {
         "prompt": "Explain 1634: The Bavarian Crisis, including information about media Type, author",
-        "output": ", and audience\n\n1634: The Bavarian Crisis is a novel written by Eric Flint and Virginia DeMarce, and is part of the 1632 series. It is a work of alternate history, science fiction, and fantasy. The novel follows the events of the Thirty Years' War, which is set in the fictional universe of the 1632 series. The novel focuses on the events in Bavaria, which is a region of Germany, and the political and military struggles that take place there. The novel is written for an adult audience and is the fourth book in the series.",
+        "output": "\n\n1634: The Bavarian Crisis is a novel written by Eric Flint and Virginia DeMarce, and is part of the 1632 series. It is a work of alternate history, science fiction, and fantasy. The novel follows the events of the Thirty Years' War, which is set in the fictional universe of the 1632 series. The novel focuses on the events in Bavaria, which is a region of Germany, and the political and military struggles that take place there. The novel is written for an adult audience and is the fourth book in the series.",
         "model": "text-davinci-003",
         "category": "WrittenWork",
         "id": "Id11",
@@ -250,7 +250,7 @@
     },
     {
         "prompt": "Explain A Loyal Character Dancer, including information about isbn Number, number of Pages",
-        "output": ", and Publisher\n\nA Loyal Character Dancer is a novel by Qiu Xiaolong, published in 2002 by Soho Press. The ISBN number is 978-1569473090. The novel is 336 pages long and is set in Shanghai, China. It follows Inspector Chen Cao, a Chinese detective, as he investigates a murder case involving a dancer from the Shanghai Ballet. The novel is a blend of mystery, romance, and Chinese culture, and is the first in a series of Inspector Chen novels.",
+        "output": "\n\nA Loyal Character Dancer is a novel by Qiu Xiaolong, published in 2002 by Soho Press. The ISBN number is 978-1569473090. The novel is 336 pages long and is set in Shanghai, China. It follows Inspector Chen Cao, a Chinese detective, as he investigates a murder case involving a dancer from the Shanghai Ballet. The novel is a blend of mystery, romance, and Chinese culture, and is the first in a series of Inspector Chen novels.",
         "model": "text-davinci-003",
         "category": "WrittenWork",
         "id": "Id86",
