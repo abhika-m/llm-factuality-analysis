@@ -9,19 +9,6 @@ openai.api_key = api_key
 b = Benchmark()
 files = select_files('./original_nlg_data/train')
 b.fill_benchmark(files)
-v = b.verbalisations()
-# print("Number of entries: ", b.entry_count())
-# print(b.filter(cat=["Food"]).unique_p_mtriples())
-# for i in range(b.entry_count()):
-#     e = b.entries[i]
-#     print(e.unique_p_mtriples())
-#     if len(e.relations()) == 3 and e.shape_type == "sibling":
-#         print(v[i])
-#         print(e.list_triples()[0])
-#         #print(e.relations())
-#     i += 5000
-# entry = b.entries[514]
-# print(entry.relations())
 
 result = []
 
@@ -102,26 +89,9 @@ for i in range(0, b.entry_count()):
             outputGPT3 = retrieveOutputGPT3(prompt, "text-davinci-003")
             dict = {"prompt": prompt, "output": outputGPT3, "model": "text-davinci-003",  "category":e.category, "id":e.id, "orig_entity_info":{e1.replace(" ", "_"):e1d, e2.replace(" ", "_"):e2d}}
             result.append(dict)
-
-for i in range(0, b.entry_count()):
-    e = b.entries[i]
-    entities = []
-
-    if e.shape_type == "sibling" and e.size == "2":
-        triples = e.list_triples()
-        es = triples[0].split(" | ")
-        subject = es[0]
-        e1 = camelCaseFormat(es[1])
-        e1d = es[2]
-        es = triples[1].split(" | ")
-        e2 = camelCaseFormat(es[1])
-        e2d = es[2]
-        if(e1 != e2):
-            entities.append(e1)
-            entities.append(e2)
-            prompt = create_prompt(subject, entities)
-            outputChatGPT = retrieveOutputChatGPT(prompt)
-            dict = {"prompt": prompt, "output": outputChatGPT, "model": "gpt-3.5-turbo",  "category":e.category, "id":e.id, "orig_entity_info":{e1.replace(" ", "_"):e1d, e2.replace(" ", "_"):e2d}}
-            result.append(dict)
+            # rate limit exceeding for this
+            # outputChatGPT = retrieveOutputChatGPT(prompt)
+            # dict = {"prompt": prompt, "output": outputChatGPT, "model": "gpt-3.5-turbo",  "category":e.category, "id":e.id, "orig_entity_info":{e1.replace(" ", "_"):e1d, e2.replace(" ", "_"):e2d}}
+            # result.append(dict)
 
 create_json(result)
