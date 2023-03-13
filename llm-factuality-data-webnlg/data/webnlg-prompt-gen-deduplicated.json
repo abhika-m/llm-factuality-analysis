@@ -1,16 +1,5 @@
 [
   {
-    "prompt": "Explain Aarhus Airport, including information about operating organisation, runway length",
-    "output": "\n\nAarhus Airport is an international airport located in Tirstrup, Denmark, about 35 km northeast of Aarhus city. The airport is owned by Aarhus Municipality, but is operated by Aarhus Lufthavn A/S, which is a subsidiary of the SAS Group.\n\nThe airport has one runway, which is 10,006 feet (3,050 meters) long and 147 feet (45 meters) wide, making it capable of handling large commercial aircraft such as the Boeing 747 and Airbus A380.\n\nAarhus Airport has a modern terminal building with several restaurants, cafes, and shops. It also features several amenities for passengers such as free Wi-Fi, charging stations, and a lounge area.\n\nThe airport serves as a hub for several airlines, including SAS, KLM, Ryanair, and Norwegian Air Shuttle, and offers regular flights to many European destinations, including London, Frankfurt, Stockholm, and Istanbul. It also serves as a primary gateway for tourists visiting Denmark.\n\nOverall, Aarhus Airport is an important transportation hub in the region, providing easy access to Aarhus and other nearby destinations.",
-    "model": "text-davinci-003",
-    "category": "Airport",
-    "id": "Id5",
-    "orig_entity_info": {
-      "operating_organisation": ["\"Aarhus Lufthavn A/S\"", "Aktieselskab"],
-      "runway_length": ["\"Aarhus Lufthavn A/S\"", "2702.0"]
-    }
-  },
-  {
     "prompt": "Explain Aarhus Airport, including information about operating organisation, runway name",
     "output": "\n\nAarhus Airport is a regional airport located in Tirstrup, Denmark. It is the second-largest airport in Denmark after Copenhagen Airport and serves the city of Aarhus and the surrounding region. It is owned by Aarhus Municipality and is operated by Aarhus Lufthavn A/S.\n\nThe airport has a single runway designated as runway 10/28. It is 2,100 meters long and 45 meters wide and can accommodate a wide range of aircraft including Boeing 747 and Airbus A340. The airport also has a helipad for emergency medical services.\n\nAarhus Airport has a modern terminal building with several facilities for passengers, including restaurants, cafes, shops, and car rental services. The airport serves a number of domestic and international destinations, including Oslo, Stockholm, and London.\n\nAarhus Airport is committed to sustainability and reducing its environmental impact. It has installed solar panels on the terminal roof and has implemented various measures such as recycling and energy-efficient lighting to reduce its carbon footprint.",
     "model": "gpt-3.5-turbo",
